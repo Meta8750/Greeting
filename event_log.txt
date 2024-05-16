@@ -1,0 +1,2320 @@
+
+2023-07-26 14:25:23,074 - Programm wurde gestartet
+2023-07-26 14:25:44,652 - Programm wurde gestartet
+2023-07-26 14:25:47,588 - Aktuelles Datum
+2023-07-26 14:26:25,526 - Programm wurde gestartet
+2023-07-26 14:26:28,029 - Aktuelles Datum
+2023-07-26 14:28:50,900 - Programm wurde gestartet
+2023-07-26 14:28:54,912 - Aktuelles Datum
+2023-07-26 14:29:02,402 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 14:29:06,829 - Bildschirmschoner erstellt
+2023-07-26 14:29:06,833 - Gültig ab gespeichert.
+2023-07-26 14:29:06,838 - Gültig bis gespeichert.
+2023-07-26 14:29:11,111 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 14:29:16,119 - Aktuelles Datum
+2023-07-26 14:34:46,427 - Programm wurde gestartet
+2023-07-26 14:34:56,653 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 14:34:56,655 - Gültig ab gelöscht.
+2023-07-26 14:34:56,658 - Gültig bis gelöscht.
+2023-07-26 14:35:10,259 - Programm wurde gestartet
+2023-07-26 14:35:36,736 - Programm wurde gestartet
+2023-07-26 14:36:32,531 - Programm wurde gestartet
+2023-07-26 14:36:41,952 - Name gepsichert
+2023-07-26 14:36:42,672 - Firma gepsichert
+2023-07-26 14:36:46,360 - Aktuelles Datum
+2023-07-26 14:36:54,862 - Bildschirmschoner erstellt
+2023-07-26 14:36:54,862 - Gültig ab gespeichert.
+2023-07-26 14:36:54,882 - Gültig bis gespeichert.
+2023-07-26 14:39:12,623 - Programm wurde gestartet
+2023-07-26 14:39:19,121 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 14:39:19,124 - Gültig ab gelöscht.
+2023-07-26 14:39:19,127 - Gültig bis gelöscht.
+2023-07-26 14:39:21,722 - Aktuelles Datum
+2023-07-26 14:40:18,872 - Programm wurde gestartet
+2023-07-26 14:40:22,319 - Aktuelles Datum
+2023-07-26 14:40:23,237 - Aktuelles Datum
+2023-07-26 14:40:26,263 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 14:40:26,266 - Gültig ab gelöscht.
+2023-07-26 14:40:26,270 - Gültig bis gelöscht.
+2023-07-26 14:40:29,147 - Aktuelles Datum
+2023-07-26 14:40:29,756 - Aktuelles Datum
+2023-07-26 14:40:29,947 - Aktuelles Datum
+2023-07-26 14:40:30,546 - Aktuelles Datum
+2023-07-26 14:40:30,814 - Aktuelles Datum
+2023-07-26 14:42:37,015 - Programm wurde gestartet
+2023-07-26 14:43:11,041 - Programm wurde gestartet
+2023-07-26 14:43:12,645 - Error: Keine Datum vorhanden
+2023-07-26 14:43:18,209 - Bildschirmschoner erstellt
+2023-07-26 14:43:18,212 - Gültig ab gespeichert.
+2023-07-26 14:43:18,216 - Gültig bis gespeichert.
+2023-07-26 14:43:19,158 - Aktuelles Datum
+2023-07-26 14:43:20,901 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 14:43:20,904 - Gültig ab gelöscht.
+2023-07-26 14:43:20,931 - Gültig bis gelöscht.
+2023-07-26 14:43:22,210 - Error: Keine Datum vorhanden
+2023-07-26 14:44:19,163 - Programm wurde gestartet
+2023-07-26 14:44:20,762 - Error: Keine Datum vorhanden
+2023-07-26 14:44:21,628 - Error: Keine Datum vorhanden
+2023-07-26 14:44:21,780 - Error: Keine Datum vorhanden
+2023-07-26 14:44:21,941 - Error: Keine Datum vorhanden
+2023-07-26 14:44:22,076 - Error: Keine Datum vorhanden
+2023-07-26 14:44:27,591 - Bildschirmschoner erstellt
+2023-07-26 14:44:27,595 - Gültig ab gespeichert.
+2023-07-26 14:44:27,601 - Gültig bis gespeichert.
+2023-07-26 14:44:28,908 - Aktuelles Datum
+2023-07-26 14:44:34,661 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 14:44:34,664 - Gültig ab gelöscht.
+2023-07-26 14:44:34,667 - Gültig bis gelöscht.
+2023-07-26 14:44:37,009 - Error: Keine Datum vorhanden
+2023-07-26 14:47:36,539 - Programm wurde gestartet
+2023-07-26 14:47:44,890 - Error: Keine Namen eingefügt
+2023-07-26 14:47:45,380 - Error: Keine Firma eingefügt
+2023-07-26 14:47:48,359 - Bildschirmschoner erstellt
+2023-07-26 14:47:48,370 - Gültig ab gespeichert.
+2023-07-26 14:47:48,375 - Gültig bis gespeichert.
+2023-07-26 14:56:25,528 - Programm wurde gestartet
+2023-07-26 14:56:33,425 - Aktuelles Datum
+2023-07-26 14:56:33,808 - Aktuelles Datum
+2023-07-26 14:56:33,979 - Aktuelles Datum
+2023-07-26 14:56:34,136 - Aktuelles Datum
+2023-07-26 15:31:16,270 - Programm wurde gestartet
+2023-07-26 15:31:50,723 - Programm wurde gestartet
+2023-07-26 15:31:57,787 - Programm wurde gestartet
+2023-07-26 15:32:04,733 - Programm wurde gestartet
+2023-07-26 15:32:15,052 - Programm wurde gestartet
+2023-07-26 15:32:29,240 - Programm wurde gestartet
+2023-07-26 15:33:01,449 - Programm wurde gestartet
+2023-07-26 15:33:19,830 - Programm wurde gestartet
+2023-07-26 15:33:28,380 - Programm wurde gestartet
+2023-07-26 15:33:36,835 - Programm wurde gestartet
+2023-07-26 15:33:55,423 - Programm wurde gestartet
+2023-07-26 15:34:13,403 - Programm wurde gestartet
+2023-07-26 15:34:21,761 - Programm wurde gestartet
+2023-07-26 15:34:46,270 - Programm wurde gestartet
+2023-07-26 15:35:14,524 - Programm wurde gestartet
+2023-07-26 15:35:28,032 - Programm wurde gestartet
+2023-07-26 15:38:13,438 - Programm wurde gestartet
+2023-07-26 15:38:35,063 - Programm wurde gestartet
+2023-07-26 15:41:22,778 - Programm wurde gestartet
+2023-07-26 15:42:12,181 - Name gepsichert
+2023-07-26 15:42:13,632 - Firma gepsichert
+2023-07-26 15:42:18,251 - Name gepsichert
+2023-07-26 15:42:18,933 - Name gepsichert
+2023-07-26 15:42:19,447 - Name gepsichert
+2023-07-26 15:42:20,205 - Name gepsichert
+2023-07-26 15:42:20,909 - Name gepsichert
+2023-07-26 15:42:21,085 - Name gepsichert
+2023-07-26 15:42:21,664 - Name gepsichert
+2023-07-26 15:42:22,119 - Name gepsichert
+2023-07-26 15:42:22,417 - Name gepsichert
+2023-07-26 15:42:23,669 - Name gepsichert
+2023-07-26 15:42:27,261 - letzer Name gelöscht
+2023-07-26 15:43:15,776 - Programm wurde gestartet
+2023-07-26 15:46:03,719 - Programm wurde gestartet
+2023-07-26 15:46:14,966 - Programm wurde gestartet
+2023-07-26 15:46:24,158 - Programm wurde gestartet
+2023-07-26 15:46:34,959 - Programm wurde gestartet
+2023-07-26 15:46:48,680 - Programm wurde gestartet
+2023-07-26 15:46:57,952 - Name gepsichert
+2023-07-26 15:46:58,462 - Firma gepsichert
+2023-07-26 15:47:07,328 - Programm wurde gestartet
+2023-07-26 15:47:17,693 - Name gepsichert
+2023-07-26 15:47:18,259 - Firma gepsichert
+2023-07-26 15:47:51,233 - Programm wurde gestartet
+2023-07-26 15:47:58,946 - Name gepsichert
+2023-07-26 15:47:59,275 - Firma gepsichert
+2023-07-26 15:48:06,158 - Error: Keine Namen eingefügt
+2023-07-26 15:48:06,460 - Error: Keine Firma eingefügt
+2023-07-26 15:48:06,795 - Aktuelles Datum
+2023-07-26 15:48:07,365 - letzer Name gelöscht
+2023-07-26 15:48:08,247 - Error: Keine Namen gefunden
+2023-07-26 15:48:10,090 - Alle Firmen gelöscht
+2023-07-26 15:48:11,346 - Eintrag gelöscht/Logo eingefügt
+2023-07-26 15:48:11,350 - Gültig ab gelöscht.
+2023-07-26 15:48:11,354 - Gültig bis gelöscht.
+2023-07-26 15:48:11,912 - Error: Keine Namen gefunden
+2023-07-26 15:48:12,653 - Error: Kein Namen gefunden
+2023-07-26 15:48:13,151 - Error: Keine Datum vorhanden
+2023-07-26 15:48:13,572 - Error: Keine Firma eingefügt
+2023-07-26 15:48:17,747 - Firma gepsichert
+2023-07-26 15:48:22,471 - Name gepsichert
+2023-07-26 15:48:32,604 - Name gepsichert
+2023-07-26 15:49:24,112 - Programm wurde gestartet
+2023-07-26 15:49:28,765 - Error: Keine Datum vorhanden
+2023-07-26 15:49:30,755 - Bildschirmschoner erstellt
+2023-07-26 15:49:30,759 - Gültig ab gespeichert.
+2023-07-26 15:49:30,765 - Gültig bis gespeichert.
+2023-07-26 15:49:31,698 - Aktuelles Datum
+2023-07-27 07:42:30,338 - Programm wurde gestartet
+2023-07-27 07:42:51,271 - Name gepsichert
+2023-07-27 07:42:51,996 - Firma gepsichert
+2023-07-27 07:42:57,457 - Eintrag gelöscht/Logo eingefügt
+2023-07-27 07:42:57,460 - Gültig ab gelöscht.
+2023-07-27 07:42:57,464 - Gültig bis gelöscht.
+2023-07-27 07:42:58,782 - Eintrag gelöscht/Logo eingefügt
+2023-07-27 07:42:58,787 - Gültig ab gelöscht.
+2023-07-27 07:42:58,791 - Gültig bis gelöscht.
+2023-07-27 07:43:46,509 - Programm wurde gestartet
+2023-07-27 07:43:56,992 - Name gepsichert
+2023-07-27 07:43:57,428 - Firma gepsichert
+2023-07-27 07:44:00,035 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:44:00,038 - Gültig ab gelöscht.
+2023-07-27 07:44:00,042 - Gültig bis gelöscht.
+2023-07-27 07:44:30,998 - Error: Keine Datum vorhanden
+2023-07-27 07:44:33,750 - Bildschirmschoner erstellt
+2023-07-27 07:44:33,756 - Gültig ab gespeichert.
+2023-07-27 07:44:33,765 - Gültig bis gespeichert.
+2023-07-27 07:44:40,799 - Aktuelles Datum
+2023-07-27 07:44:46,483 - Bildschirmschoner erstellt
+2023-07-27 07:44:46,487 - Gültig ab gespeichert.
+2023-07-27 07:44:46,504 - Gültig bis gespeichert.
+2023-07-27 07:45:01,638 - Aktuelles Datum
+2023-07-27 07:45:12,885 - Programm wurde gestartet
+2023-07-27 07:45:58,768 - Programm wurde gestartet
+2023-07-27 07:46:04,918 - Aktuelles Datum
+2023-07-27 07:46:06,580 - Aktuelles Datum
+2023-07-27 07:46:07,128 - Aktuelles Datum
+2023-07-27 07:46:07,872 - Aktuelles Datum
+2023-07-27 07:48:21,262 - Programm wurde gestartet
+2023-07-27 07:48:23,592 - Aktuelles Datum
+2023-07-27 07:48:25,230 - Aktuelles Datum
+2023-07-27 07:48:26,883 - Aktuelles Datum
+2023-07-27 07:48:28,365 - Aktuelles Datum
+2023-07-27 07:48:29,581 - Aktuelles Datum
+2023-07-27 07:48:30,834 - Aktuelles Datum
+2023-07-27 07:48:32,014 - Aktuelles Datum
+2023-07-27 07:48:32,709 - Aktuelles Datum
+2023-07-27 07:48:33,567 - Aktuelles Datum
+2023-07-27 07:48:34,157 - Aktuelles Datum
+2023-07-27 07:49:23,924 - Programm wurde gestartet
+2023-07-27 07:49:26,663 - Aktuelles Datum
+2023-07-27 07:50:46,417 - Programm wurde gestartet
+2023-07-27 07:50:48,583 - Aktuelles Datum
+2023-07-27 07:50:49,322 - Aktuelles Datum
+2023-07-27 07:50:50,242 - Aktuelles Datum
+2023-07-27 07:50:51,039 - Aktuelles Datum
+2023-07-27 07:50:54,429 - Aktuelles Datum
+2023-07-27 07:50:56,300 - Aktuelles Datum
+2023-07-27 07:51:00,369 - Aktuelles Datum
+2023-07-27 07:51:01,064 - Aktuelles Datum
+2023-07-27 07:51:01,424 - Aktuelles Datum
+2023-07-27 07:51:01,685 - Aktuelles Datum
+2023-07-27 07:51:02,255 - Aktuelles Datum
+2023-07-27 07:51:02,879 - Aktuelles Datum
+2023-07-27 07:51:03,224 - Aktuelles Datum
+2023-07-27 07:51:19,499 - Aktuelles Datum
+2023-07-27 07:51:27,093 - Bildschirmschoner erstellt
+2023-07-27 07:51:27,105 - Gültig ab gespeichert.
+2023-07-27 07:51:27,111 - Gültig bis gespeichert.
+2023-07-27 07:51:28,230 - Aktuelles Datum
+2023-07-27 07:51:30,387 - Aktuelles Datum
+2023-07-27 07:51:35,382 - Bildschirmschoner erstellt
+2023-07-27 07:51:35,385 - Gültig ab gespeichert.
+2023-07-27 07:51:35,394 - Gültig bis gespeichert.
+2023-07-27 07:51:37,148 - Aktuelles Datum
+2023-07-27 07:51:38,130 - Aktuelles Datum
+2023-07-27 07:52:51,650 - Programm wurde gestartet
+2023-07-27 07:52:56,802 - Error: Keine Namen eingefügt
+2023-07-27 07:52:57,187 - Error: Keine Firma eingefügt
+2023-07-27 07:52:58,415 - Aktuelles Datum
+2023-07-27 07:52:58,933 - Aktuelles Datum
+2023-07-27 07:52:59,384 - Error: Kein Namen gefunden
+2023-07-27 07:53:00,409 - Error: Keine Namen gefunden
+2023-07-27 07:53:01,169 - Error: keine Firma gefunden
+2023-07-27 07:53:01,622 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:01,628 - Gültig ab gelöscht.
+2023-07-27 07:53:01,632 - Gültig bis gelöscht.
+2023-07-27 07:53:01,952 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:01,956 - Gültig ab gelöscht.
+2023-07-27 07:53:01,958 - Gültig bis gelöscht.
+2023-07-27 07:53:02,216 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:02,221 - Gültig ab gelöscht.
+2023-07-27 07:53:02,225 - Gültig bis gelöscht.
+2023-07-27 07:53:02,491 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:02,508 - Gültig ab gelöscht.
+2023-07-27 07:53:02,513 - Gültig bis gelöscht.
+2023-07-27 07:53:02,741 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:02,746 - Gültig ab gelöscht.
+2023-07-27 07:53:02,752 - Gültig bis gelöscht.
+2023-07-27 07:53:02,987 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:03,000 - Gültig ab gelöscht.
+2023-07-27 07:53:03,006 - Gültig bis gelöscht.
+2023-07-27 07:53:03,475 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:03,483 - Gültig ab gelöscht.
+2023-07-27 07:53:03,488 - Gültig bis gelöscht.
+2023-07-27 07:53:03,744 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:03,747 - Gültig ab gelöscht.
+2023-07-27 07:53:03,763 - Gültig bis gelöscht.
+2023-07-27 07:53:04,308 - Error: keine Firma gefunden
+2023-07-27 07:53:04,791 - Error: keine Firma gefunden
+2023-07-27 07:53:05,407 - Error: Keine Namen gefunden
+2023-07-27 07:53:05,965 - Error: Kein Namen gefunden
+2023-07-27 07:53:06,644 - Error: Keine Datum vorhanden
+2023-07-27 07:53:07,333 - Error: Keine Firma eingefügt
+2023-07-27 07:53:08,015 - Error: Keine Namen eingefügt
+2023-07-27 07:53:08,585 - Bildschirmschoner erstellt
+2023-07-27 07:53:08,590 - Gültig ab gespeichert.
+2023-07-27 07:53:08,603 - Gültig bis gespeichert.
+2023-07-27 07:53:09,455 - Bildschirmschoner erstellt
+2023-07-27 07:53:09,459 - Gültig ab gespeichert.
+2023-07-27 07:53:09,468 - Gültig bis gespeichert.
+2023-07-27 07:53:10,188 - Error: Keine Namen eingefügt
+2023-07-27 07:53:10,657 - Error: Keine Firma eingefügt
+2023-07-27 07:53:11,321 - Aktuelles Datum
+2023-07-27 07:53:11,797 - Error: Kein Namen gefunden
+2023-07-27 07:53:12,065 - Error: Kein Namen gefunden
+2023-07-27 07:53:12,370 - Error: Keine Namen gefunden
+2023-07-27 07:53:12,771 - Error: keine Firma gefunden
+2023-07-27 07:53:13,165 - Error: keine Firma gefunden
+2023-07-27 07:53:14,248 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:14,255 - Gültig ab gelöscht.
+2023-07-27 07:53:14,259 - Gültig bis gelöscht.
+2023-07-27 07:53:14,469 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:14,474 - Gültig ab gelöscht.
+2023-07-27 07:53:14,478 - Gültig bis gelöscht.
+2023-07-27 07:53:14,707 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:14,718 - Gültig ab gelöscht.
+2023-07-27 07:53:14,722 - Gültig bis gelöscht.
+2023-07-27 07:53:14,964 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:53:14,971 - Gültig ab gelöscht.
+2023-07-27 07:53:14,975 - Gültig bis gelöscht.
+2023-07-27 07:53:15,924 - Error: keine Firma gefunden
+2023-07-27 07:53:16,389 - Error: keine Firma gefunden
+2023-07-27 07:53:16,589 - Error: keine Firma gefunden
+2023-07-27 07:53:16,810 - Error: keine Firma gefunden
+2023-07-27 07:53:17,072 - Error: keine Firma gefunden
+2023-07-27 07:53:17,829 - Error: Keine Namen gefunden
+2023-07-27 07:53:18,077 - Error: Keine Namen gefunden
+2023-07-27 07:53:49,754 - Programm wurde gestartet
+2023-07-27 07:53:56,709 - Bildschirmschoner erstellt
+2023-07-27 07:53:56,718 - Gültig ab gespeichert.
+2023-07-27 07:53:56,737 - Gültig bis gespeichert.
+2023-07-27 07:53:57,242 - Error: Keine Namen eingefügt
+2023-07-27 07:53:57,595 - Firma gepsichert
+2023-07-27 07:53:58,049 - Error: Keine Firma eingefügt
+2023-07-27 07:53:58,703 - Aktuelles Datum
+2023-07-27 07:53:59,203 - Error: Kein Namen gefunden
+2023-07-27 07:53:59,760 - Error: Kein Namen gefunden
+2023-07-27 07:54:00,657 - Error: Keine Namen gefunden
+2023-07-27 07:54:01,259 - Alle Firmen gelöscht
+2023-07-27 07:54:01,494 - Error: keine Firma gefunden
+2023-07-27 07:54:02,388 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:02,392 - Gültig ab gelöscht.
+2023-07-27 07:54:02,394 - Gültig bis gelöscht.
+2023-07-27 07:54:02,602 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:02,607 - Gültig ab gelöscht.
+2023-07-27 07:54:02,610 - Gültig bis gelöscht.
+2023-07-27 07:54:03,342 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:03,345 - Gültig ab gelöscht.
+2023-07-27 07:54:03,352 - Gültig bis gelöscht.
+2023-07-27 07:54:03,579 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:03,587 - Gültig ab gelöscht.
+2023-07-27 07:54:03,591 - Gültig bis gelöscht.
+2023-07-27 07:54:03,807 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:03,811 - Gültig ab gelöscht.
+2023-07-27 07:54:03,824 - Gültig bis gelöscht.
+2023-07-27 07:54:04,042 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:04,046 - Gültig ab gelöscht.
+2023-07-27 07:54:04,053 - Gültig bis gelöscht.
+2023-07-27 07:54:04,602 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:04,605 - Gültig ab gelöscht.
+2023-07-27 07:54:04,607 - Gültig bis gelöscht.
+2023-07-27 07:54:04,835 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:04,840 - Gültig ab gelöscht.
+2023-07-27 07:54:04,844 - Gültig bis gelöscht.
+2023-07-27 07:54:05,092 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:05,096 - Gültig ab gelöscht.
+2023-07-27 07:54:05,102 - Gültig bis gelöscht.
+2023-07-27 07:54:05,612 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:05,615 - Gültig ab gelöscht.
+2023-07-27 07:54:05,620 - Gültig bis gelöscht.
+2023-07-27 07:54:10,546 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 07:54:10,553 - Gültig ab gelöscht.
+2023-07-27 07:54:10,556 - Gültig bis gelöscht.
+2023-07-27 07:54:13,571 - Error: Keine Namen eingefügt
+2023-07-27 07:54:13,839 - Error: Keine Namen eingefügt
+2023-07-27 07:54:17,429 - Name gepsichert
+2023-07-27 07:54:18,317 - Name gepsichert
+2023-07-27 07:54:18,897 - Name gepsichert
+2023-07-27 07:54:19,195 - Name gepsichert
+2023-07-27 07:54:19,438 - Name gepsichert
+2023-07-27 07:54:19,660 - Name gepsichert
+2023-07-27 07:54:19,890 - Name gepsichert
+2023-07-27 07:54:22,394 - Name gepsichert
+2023-07-27 07:54:23,898 - Name gepsichert
+2023-07-27 07:54:25,349 - Name gepsichert
+2023-07-27 07:54:26,979 - Name gepsichert
+2023-07-27 07:54:28,133 - Name gepsichert
+2023-07-27 07:54:29,286 - Name gepsichert
+2023-07-27 07:54:32,526 - Name gepsichert
+2023-07-27 07:54:36,824 - Name gepsichert
+2023-07-27 07:54:38,367 - Name gepsichert
+2023-07-27 07:54:39,919 - Name gepsichert
+2023-07-27 07:54:41,853 - Name gepsichert
+2023-07-27 07:54:43,240 - Name gepsichert
+2023-07-27 07:54:43,925 - Name gepsichert
+2023-07-27 07:54:44,137 - Error: Keine Namen eingefügt
+2023-07-27 07:54:44,379 - Name gepsichert
+2023-07-27 07:54:45,899 - Name gepsichert
+2023-07-27 07:54:46,161 - Name gepsichert
+2023-07-27 07:54:46,385 - Name gepsichert
+2023-07-27 07:54:46,576 - Name gepsichert
+2023-07-27 07:54:46,783 - Name gepsichert
+2023-07-27 07:54:47,102 - Name gepsichert
+2023-07-27 07:54:47,333 - Name gepsichert
+2023-07-27 07:54:47,569 - Name gepsichert
+2023-07-27 07:54:47,791 - Name gepsichert
+2023-07-27 07:54:47,992 - Name gepsichert
+2023-07-27 07:54:48,217 - Name gepsichert
+2023-07-27 07:54:48,435 - Name gepsichert
+2023-07-27 07:54:48,661 - Name gepsichert
+2023-07-27 07:54:48,879 - Name gepsichert
+2023-07-27 07:54:49,112 - Name gepsichert
+2023-07-27 07:54:49,344 - Name gepsichert
+2023-07-27 07:54:49,587 - Name gepsichert
+2023-07-27 07:54:49,779 - Name gepsichert
+2023-07-27 07:54:50,026 - Name gepsichert
+2023-07-27 07:54:50,272 - Error: Keine Namen eingefügt
+2023-07-27 07:54:50,560 - Name gepsichert
+2023-07-27 07:54:50,837 - Name gepsichert
+2023-07-27 07:54:51,086 - Name gepsichert
+2023-07-27 07:54:51,334 - Name gepsichert
+2023-07-27 07:54:51,585 - Name gepsichert
+2023-07-27 07:54:53,077 - Error: Keine Firma eingefügt
+2023-07-27 07:54:53,349 - Error: Keine Firma eingefügt
+2023-07-27 07:54:53,637 - Error: Keine Firma eingefügt
+2023-07-27 07:54:53,845 - Error: Keine Firma eingefügt
+2023-07-27 07:54:56,944 - Firma gepsichert
+2023-07-27 07:54:57,275 - Firma gepsichert
+2023-07-27 07:54:57,559 - Firma gepsichert
+2023-07-27 07:54:57,838 - Firma gepsichert
+2023-07-27 07:54:58,074 - Firma gepsichert
+2023-07-27 07:54:58,305 - Firma gepsichert
+2023-07-27 07:54:58,498 - Firma gepsichert
+2023-07-27 07:54:58,730 - Firma gepsichert
+2023-07-27 07:55:02,487 - Firma gepsichert
+2023-07-27 07:55:04,357 - Error: Keine Firma eingefügt
+2023-07-27 07:55:04,874 - Firma gepsichert
+2023-07-27 07:55:05,158 - Firma gepsichert
+2023-07-27 07:55:05,404 - Firma gepsichert
+2023-07-27 07:55:05,677 - Firma gepsichert
+2023-07-27 07:55:05,946 - Firma gepsichert
+2023-07-27 07:55:06,188 - Firma gepsichert
+2023-07-27 07:55:06,482 - Firma gepsichert
+2023-07-27 07:55:06,751 - Firma gepsichert
+2023-07-27 07:55:07,003 - Firma gepsichert
+2023-07-27 07:55:07,272 - Firma gepsichert
+2023-07-27 07:55:07,534 - Firma gepsichert
+2023-07-27 07:55:07,807 - Firma gepsichert
+2023-07-27 07:55:08,065 - Firma gepsichert
+2023-07-27 07:55:09,043 - Firma gepsichert
+2023-07-27 07:55:09,269 - Error: Keine Firma eingefügt
+2023-07-27 07:55:09,552 - Firma gepsichert
+2023-07-27 07:55:09,825 - Firma gepsichert
+2023-07-27 07:55:10,120 - Firma gepsichert
+2023-07-27 07:55:10,446 - Firma gepsichert
+2023-07-27 07:55:11,344 - Firma gepsichert
+2023-07-27 07:55:11,645 - Firma gepsichert
+2023-07-27 07:55:11,918 - Firma gepsichert
+2023-07-27 07:55:12,205 - Firma gepsichert
+2023-07-27 07:55:12,497 - Firma gepsichert
+2023-07-27 07:55:12,679 - Error: Keine Firma eingefügt
+2023-07-27 07:55:13,279 - Firma gepsichert
+2023-07-27 07:55:13,567 - Firma gepsichert
+2023-07-27 07:55:13,819 - Firma gepsichert
+2023-07-27 07:55:14,119 - Firma gepsichert
+2023-07-27 07:55:14,445 - Firma gepsichert
+2023-07-27 07:55:14,748 - Firma gepsichert
+2023-07-27 07:55:15,006 - Error: Keine Firma eingefügt
+2023-07-27 07:55:15,300 - Firma gepsichert
+2023-07-27 07:55:15,674 - Firma gepsichert
+2023-07-27 07:55:15,997 - Firma gepsichert
+2023-07-27 07:55:16,350 - Firma gepsichert
+2023-07-27 07:55:16,908 - Firma gepsichert
+2023-07-27 07:55:17,384 - Firma gepsichert
+2023-07-27 07:55:17,822 - Firma gepsichert
+2023-07-27 07:55:18,262 - Firma gepsichert
+2023-07-27 07:55:24,989 - Error: Keine Datum vorhanden
+2023-07-27 07:55:27,271 - Bildschirmschoner erstellt
+2023-07-27 07:55:27,280 - Gültig ab gespeichert.
+2023-07-27 07:55:27,290 - Gültig bis gespeichert.
+2023-07-27 07:55:27,911 - Aktuelles Datum
+2023-07-27 07:55:50,569 - Programm wurde gestartet
+2023-07-27 07:56:02,873 - Programm wurde gestartet
+2023-07-27 07:56:06,242 - Bildschirmschoner erstellt
+2023-07-27 07:56:06,245 - Gültig ab gespeichert.
+2023-07-27 07:56:06,256 - Gültig bis gespeichert.
+2023-07-27 07:56:06,779 - Error: Keine Namen eingefügt
+2023-07-27 07:56:09,583 - Firma gepsichert
+2023-07-27 07:56:10,491 - Error: Keine Namen eingefügt
+2023-07-27 07:56:10,953 - Error: Keine Namen eingefügt
+2023-07-27 07:59:02,626 - Programm wurde gestartet
+2023-07-27 08:01:40,667 - Programm wurde gestartet
+2023-07-27 08:01:56,607 - Programm wurde gestartet
+2023-07-27 08:02:03,192 - Programm wurde gestartet
+2023-07-27 08:02:08,567 - Programm wurde gestartet
+2023-07-27 08:02:32,940 - Programm wurde gestartet
+2023-07-27 08:02:53,164 - Programm wurde gestartet
+2023-07-27 08:03:14,385 - Programm wurde gestartet
+2023-07-27 08:03:29,418 - Programm wurde gestartet
+2023-07-27 08:03:57,249 - Programm wurde gestartet
+2023-07-27 08:04:07,491 - Programm wurde gestartet
+2023-07-27 08:04:16,144 - Bildschirmschoner erstellt
+2023-07-27 08:04:16,150 - Gültig ab gespeichert.
+2023-07-27 08:04:16,156 - Gültig bis gespeichert.
+2023-07-27 08:04:16,571 - Error: Keine Namen eingefügt
+2023-07-27 08:04:17,158 - Error: Keine Firma eingefügt
+2023-07-27 08:04:17,431 - Error: Keine Firma eingefügt
+2023-07-27 08:04:17,970 - Aktuelles Datum
+2023-07-27 08:04:18,227 - Aktuelles Datum
+2023-07-27 08:04:18,759 - Error: Kein Namen gefunden
+2023-07-27 08:04:19,079 - Error: Kein Namen gefunden
+2023-07-27 08:04:19,650 - Error: Keine Namen gefunden
+2023-07-27 08:04:28,539 - Name gepsichert
+2023-07-27 08:04:32,601 - Firma gepsichert
+2023-07-27 08:04:33,303 - Error: Keine Firma eingefügt
+2023-07-27 08:04:34,029 - Firma gepsichert
+2023-07-27 08:04:34,419 - Firma gepsichert
+2023-07-27 08:04:34,733 - Firma gepsichert
+2023-07-27 08:04:36,009 - Firma gepsichert
+2023-07-27 08:04:37,829 - Firma gepsichert
+2023-07-27 08:05:11,567 - Programm wurde gestartet
+2023-07-27 08:05:16,979 - Name gepsichert
+2023-07-27 08:05:17,419 - Firma gepsichert
+2023-07-27 08:06:15,445 - Programm wurde gestartet
+2023-07-27 08:06:19,529 - Name gepsichert
+2023-07-27 08:06:20,579 - Firma gepsichert
+2023-07-27 08:06:41,252 - Programm wurde gestartet
+2023-07-27 08:06:42,623 - Aktuelles Datum
+2023-07-27 08:06:43,147 - Error: Keine Firma eingefügt
+2023-07-27 08:06:43,466 - Error: Keine Namen eingefügt
+2023-07-27 08:06:43,829 - Bildschirmschoner erstellt
+2023-07-27 08:06:43,832 - Gültig ab gespeichert.
+2023-07-27 08:06:43,841 - Gültig bis gespeichert.
+2023-07-27 08:06:44,253 - Bildschirmschoner erstellt
+2023-07-27 08:06:44,256 - Gültig ab gespeichert.
+2023-07-27 08:06:44,263 - Gültig bis gespeichert.
+2023-07-27 08:06:44,425 - Bildschirmschoner erstellt
+2023-07-27 08:06:44,429 - Gültig ab gespeichert.
+2023-07-27 08:06:44,434 - Gültig bis gespeichert.
+2023-07-27 08:06:44,628 - Error: Keine Namen eingefügt
+2023-07-27 08:06:44,827 - Error: Keine Namen eingefügt
+2023-07-27 08:06:45,411 - Error: Keine Firma eingefügt
+2023-07-27 08:06:45,639 - Aktuelles Datum
+2023-07-27 08:06:45,822 - Aktuelles Datum
+2023-07-27 08:06:46,555 - Error: Keine Namen gefunden
+2023-07-27 08:06:46,736 - Error: Keine Namen gefunden
+2023-07-27 08:06:47,089 - Error: keine Firma gefunden
+2023-07-27 08:06:47,286 - Error: keine Firma gefunden
+2023-07-27 08:06:47,905 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 08:06:47,908 - Gültig ab gelöscht.
+2023-07-27 08:06:47,912 - Gültig bis gelöscht.
+2023-07-27 08:06:50,802 - Error: Keine Firma eingefügt
+2023-07-27 08:06:53,786 - Name gepsichert
+2023-07-27 08:06:57,087 - Error: Keine Datum vorhanden
+2023-07-27 08:06:57,461 - letzer Name gelöscht
+2023-07-27 08:06:57,775 - Error: Keine Namen gefunden
+2023-07-27 08:06:58,504 - Error: keine Firma gefunden
+2023-07-27 08:06:58,914 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 08:06:58,917 - Gültig ab gelöscht.
+2023-07-27 08:06:58,921 - Gültig bis gelöscht.
+2023-07-27 08:06:59,090 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 08:06:59,095 - Gültig ab gelöscht.
+2023-07-27 08:06:59,100 - Gültig bis gelöscht.
+2023-07-27 08:06:59,327 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 08:06:59,333 - Gültig ab gelöscht.
+2023-07-27 08:06:59,338 - Gültig bis gelöscht.
+2023-07-27 08:06:59,547 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 08:06:59,553 - Gültig ab gelöscht.
+2023-07-27 08:06:59,557 - Gültig bis gelöscht.
+2023-07-27 08:06:59,768 - Eintrag gelöscht
+Logo eingefügt
+2023-07-27 08:06:59,773 - Gültig ab gelöscht.
+2023-07-27 08:06:59,778 - Gültig bis gelöscht.
+2023-07-27 08:07:00,964 - Bildschirmschoner erstellt
+2023-07-27 08:07:00,968 - Gültig ab gespeichert.
+2023-07-27 08:07:00,975 - Gültig bis gespeichert.
+2023-07-27 08:07:01,826 - Error: Keine Namen eingefügt
+2023-07-27 08:07:02,107 - Error: Keine Firma eingefügt
+2023-07-27 08:07:02,409 - Aktuelles Datum
+2023-07-27 08:07:02,869 - Error: Kein Namen gefunden
+2023-07-27 08:07:03,259 - Error: Keine Namen gefunden
+2023-07-27 08:07:03,445 - Error: Keine Namen gefunden
+2023-07-27 08:07:03,856 - Error: keine Firma gefunden
+2023-07-27 08:07:09,660 - Name gepsichert
+2023-07-27 08:07:09,892 - Firma gepsichert
+2023-07-27 08:07:16,328 - Bildschirmschoner erstellt
+2023-07-27 08:07:16,332 - Gültig ab gespeichert.
+2023-07-27 08:07:16,354 - Gültig bis gespeichert.
+2023-07-27 08:07:20,652 - Aktuelles Datum
+2023-07-27 08:07:24,245 - letzer Name gelöscht
+2023-07-27 08:07:24,972 - Error: Keine Namen gefunden
+2023-07-27 08:07:26,638 - Error: Kein Namen gefunden
+2023-07-27 08:07:42,162 - Alle Firmen gelöscht
+2023-07-27 08:07:43,898 - Error: keine Firma gefunden
+2023-07-27 08:07:46,134 - Error: keine Firma gefunden
+2023-07-27 08:35:47,639 - Programm wurde gestartet
+2023-07-27 08:35:56,000 - Bildschirmschoner erstellt
+2023-07-27 08:35:56,004 - Gültig ab gespeichert.
+2023-07-27 08:35:56,010 - Gültig bis gespeichert.
+2023-07-27 08:36:29,041 - Name gepsichert
+2023-07-27 08:36:29,345 - Firma gepsichert
+2023-07-27 08:36:31,258 - Bildschirmschoner erstellt
+2023-07-27 08:36:31,264 - Gültig ab gespeichert.
+2023-07-27 08:36:31,271 - Gültig bis gespeichert.
+2023-07-27 08:41:16,028 - Programm wurde gestartet
+2023-07-27 08:41:20,952 - Name gepsichert
+2023-07-27 08:41:21,161 - Firma gepsichert
+2023-07-27 08:41:22,715 - Bildschirmschoner erstellt
+2023-07-27 08:41:22,720 - Gültig ab gespeichert.
+2023-07-27 08:41:22,730 - Gültig bis gespeichert.
+2023-07-28 07:21:59,132 - Programm wurde gestartet
+2023-07-28 07:22:08,429 - Alles Zurückgesetzt
+2023-07-28 07:22:08,442 - Gültig ab gelöscht.
+2023-07-28 07:22:08,445 - Gültig bis gelöscht.
+2023-07-28 07:22:10,258 - Error: Keine Firma gefunden
+2023-07-28 07:22:25,535 - Programm wurde gestartet
+2023-07-28 07:22:35,009 - Alles Zurückgesetzt
+2023-07-28 07:22:35,017 - Gültig ab gelöscht.
+2023-07-28 07:22:35,022 - Gültig bis gelöscht.
+2023-07-28 07:22:36,845 - Alles Zurückgesetzt
+2023-07-28 07:22:36,852 - Gültig ab gelöscht.
+2023-07-28 07:22:36,856 - Gültig bis gelöscht.
+2023-07-28 07:22:38,365 - Alles Zurückgesetzt
+2023-07-28 07:22:38,369 - Gültig ab gelöscht.
+2023-07-28 07:22:38,373 - Gültig bis gelöscht.
+2023-07-28 07:22:39,923 - Alles Zurückgesetzt
+2023-07-28 07:22:39,927 - Gültig ab gelöscht.
+2023-07-28 07:22:39,934 - Gültig bis gelöscht.
+2023-07-28 07:30:19,006 - Programm wurde gestartet
+2023-07-28 07:30:25,018 - Error: Keine Firma eingefügt
+2023-07-28 07:30:27,012 - Name gepsichert
+2023-07-28 07:30:30,286 - Name gepsichert
+2023-07-28 07:30:44,952 - Name gepsichert
+2023-07-28 07:30:46,861 - Name gepsichert
+2023-07-28 07:30:48,259 - Name gepsichert
+2023-07-28 07:30:49,193 - Name gepsichert
+2023-07-28 07:30:52,154 - Error: Keine Firma eingefügt
+2023-07-28 07:30:53,218 - Error: Keine Firma eingefügt
+2023-07-28 07:30:53,467 - Error: Keine Firma eingefügt
+2023-07-28 07:30:53,838 - Error: Keine Firma eingefügt
+2023-07-28 07:30:54,096 - Error: Keine Firma eingefügt
+2023-07-28 07:30:54,318 - Error: Keine Firma eingefügt
+2023-07-28 07:30:56,450 - Name gepsichert
+2023-07-28 07:30:57,788 - Name gepsichert
+2023-07-28 07:31:49,153 - Programm wurde gestartet
+2023-07-28 07:32:04,007 - Name gepsichert
+2023-07-28 07:32:05,293 - Name gepsichert
+2023-07-28 07:32:05,904 - Name gepsichert
+2023-07-28 07:32:16,824 - Name gepsichert
+2023-07-28 07:32:17,833 - Name gepsichert
+2023-07-28 07:32:18,275 - Name gepsichert
+2023-07-28 07:32:18,676 - Name gepsichert
+2023-07-28 07:32:19,043 - Name gepsichert
+2023-07-28 07:32:19,431 - Name gepsichert
+2023-07-28 07:32:19,785 - Name gepsichert
+2023-07-28 07:32:20,183 - Name gepsichert
+2023-07-28 07:32:20,555 - Name gepsichert
+2023-07-28 07:32:20,955 - Name gepsichert
+2023-07-28 07:33:25,372 - Programm wurde gestartet
+2023-07-28 07:33:32,525 - Name gepsichert
+2023-07-28 07:33:33,342 - Name gepsichert
+2023-07-28 07:33:35,659 - Error: Keine Firma eingefügt
+2023-07-28 07:33:36,814 - Name gepsichert
+2023-07-28 07:33:37,757 - Name gepsichert
+2023-07-28 07:33:38,217 - Name gepsichert
+2023-07-28 07:33:38,525 - Name gepsichert
+2023-07-28 07:33:51,319 - Programm wurde gestartet
+2023-07-28 07:34:01,582 - Programm wurde gestartet
+2023-07-28 07:34:06,625 - Error: Keine Firma eingefügt
+2023-07-28 07:34:07,294 - Name gepsichert
+2023-07-28 07:34:08,003 - Name gepsichert
+2023-07-28 07:34:08,524 - Name gepsichert
+2023-07-28 07:34:41,510 - Programm wurde gestartet
+2023-07-28 07:34:53,924 - Name gepsichert
+2023-07-28 07:36:55,441 - Programm wurde gestartet
+2023-07-28 07:37:14,768 - Programm wurde gestartet
+2023-07-28 07:37:19,398 - Name gepsichert
+2023-07-28 07:38:05,821 - Programm wurde gestartet
+2023-07-28 07:38:09,513 - Name gepsichert
+2023-07-28 07:39:12,435 - Programm wurde gestartet
+2023-07-28 07:39:13,528 - 2 Firma modus an
+2023-07-28 07:39:33,576 - Programm wurde gestartet
+2023-07-28 07:39:35,099 - 2 Firma modus an
+2023-07-28 07:39:35,382 - 2 Firma modus aus
+2023-07-28 07:39:35,383 - 2 Firma modus an
+2023-07-28 07:39:35,645 - 2 Firma modus an
+2023-07-28 07:39:35,937 - 2 Firma modus aus
+2023-07-28 07:39:35,939 - 2 Firma modus an
+2023-07-28 07:39:36,425 - 2 Firma modus an
+2023-07-28 07:39:36,975 - 2 Firma modus aus
+2023-07-28 07:39:36,976 - 2 Firma modus an
+2023-07-28 07:39:37,691 - 2 Firma modus an
+2023-07-28 07:39:38,353 - 2 Firma modus aus
+2023-07-28 07:39:38,354 - 2 Firma modus an
+2023-07-28 07:39:38,989 - 2 Firma modus an
+2023-07-28 07:39:40,491 - 2 Firma modus aus
+2023-07-28 07:39:40,492 - 2 Firma modus an
+2023-07-28 07:39:41,234 - 2 Firma modus an
+2023-07-28 07:39:42,247 - 2 Firma modus aus
+2023-07-28 07:39:42,248 - 2 Firma modus an
+2023-07-28 07:39:43,702 - Bildschirmschoner erstellt
+2023-07-28 07:39:43,709 - Gültig ab gespeichert.
+2023-07-28 07:39:43,721 - Gültig bis gespeichert.
+2023-07-28 07:39:46,285 - 2 Firma modus an
+2023-07-28 07:39:47,011 - 2 Firma modus aus
+2023-07-28 07:39:47,013 - 2 Firma modus an
+2023-07-28 07:39:59,782 - Programm wurde gestartet
+2023-07-28 07:40:00,965 - 2 Firma modus an
+2023-07-28 07:40:01,343 - 2 Firma modus aus
+2023-07-28 07:40:01,811 - 2 Firma modus an
+2023-07-28 07:40:02,019 - 2 Firma modus aus
+2023-07-28 07:40:02,189 - 2 Firma modus an
+2023-07-28 07:40:02,367 - 2 Firma modus aus
+2023-07-28 07:40:02,557 - 2 Firma modus an
+2023-07-28 07:40:02,755 - 2 Firma modus aus
+2023-07-28 07:40:02,947 - 2 Firma modus an
+2023-07-28 07:40:03,153 - 2 Firma modus aus
+2023-07-28 07:40:03,355 - 2 Firma modus an
+2023-07-28 07:40:03,527 - 2 Firma modus aus
+2023-07-28 07:40:03,697 - 2 Firma modus an
+2023-07-28 07:40:03,856 - 2 Firma modus aus
+2023-07-28 07:40:04,088 - 2 Firma modus an
+2023-07-28 07:40:04,421 - 2 Firma modus aus
+2023-07-28 07:40:04,959 - 2 Firma modus an
+2023-07-28 07:40:05,963 - 2 Firma modus aus
+2023-07-28 07:41:05,577 - Name gepsichert
+2023-07-28 07:41:07,796 - 2 Firma modus an
+2023-07-28 07:41:10,207 - Name gepsichert
+2023-07-28 07:42:17,432 - Programm wurde gestartet
+2023-07-28 07:43:29,399 - Programm wurde gestartet
+2023-07-28 07:44:01,368 - Programm wurde gestartet
+2023-07-28 07:44:20,358 - Name gepsichert
+2023-07-28 07:47:13,693 - Programm wurde gestartet
+2023-07-28 07:47:39,302 - Programm wurde gestartet
+2023-07-28 07:48:20,891 - Programm wurde gestartet
+2023-07-28 07:49:55,944 - Programm wurde gestartet
+2023-07-28 07:52:07,654 - Programm wurde gestartet
+2023-07-28 07:52:25,277 - Programm wurde gestartet
+2023-07-28 07:52:34,738 - Programm wurde gestartet
+2023-07-28 07:53:02,710 - Error: Keine Namen eingefügt
+2023-07-28 07:53:03,276 - Error: Keine Firma eingefügt
+2023-07-28 07:53:08,083 - Name gepsichert
+2023-07-28 07:53:09,889 - Name gepsichert
+2023-07-28 07:53:13,711 - Name gepsichert
+2023-07-28 07:53:19,378 - Firma gepsichert
+2023-07-28 07:53:39,675 - Programm wurde gestartet
+2023-07-28 07:53:47,679 - Aktuelles Datum
+2023-07-28 07:54:18,080 - Programm wurde gestartet
+2023-07-28 07:54:25,995 - Programm wurde gestartet
+2023-07-28 07:54:32,839 - Programm wurde gestartet
+2023-07-28 07:54:43,636 - Programm wurde gestartet
+2023-07-28 07:55:00,906 - Programm wurde gestartet
+2023-07-28 07:55:20,697 - Programm wurde gestartet
+2023-07-28 08:07:41,456 - Programm wurde gestartet
+2023-07-28 08:07:44,297 - Bildschirmschoner erstellt
+2023-07-28 08:07:44,301 - Gültig ab gespeichert.
+2023-07-28 08:07:44,307 - Gültig bis gespeichert.
+2023-07-28 08:16:38,492 - Programm wurde gestartet
+2023-07-28 08:18:23,447 - Programm wurde gestartet
+2023-07-28 08:18:50,783 - Programm wurde gestartet
+2023-07-28 08:19:57,468 - Programm wurde gestartet
+2023-07-28 08:20:14,083 - Programm wurde gestartet
+2023-07-28 08:21:38,413 - Programm wurde gestartet
+2023-07-28 08:21:53,746 - Programm wurde gestartet
+2023-07-28 08:22:04,924 - Programm wurde gestartet
+2023-07-28 08:23:01,695 - Programm wurde gestartet
+2023-07-28 08:23:35,724 - Programm wurde gestartet
+2023-07-28 08:26:16,989 - Programm wurde gestartet
+2023-07-28 08:28:15,010 - Programm wurde gestartet
+2023-07-28 08:28:39,529 - Programm wurde gestartet
+2023-07-28 08:30:07,701 - Programm wurde gestartet
+2023-07-28 08:30:31,833 - Programm wurde gestartet
+2023-07-28 08:32:01,627 - Programm wurde gestartet
+2023-07-28 08:32:58,182 - Programm wurde gestartet
+2023-07-28 08:33:07,130 - Programm wurde gestartet
+2023-07-28 08:39:16,388 - Programm wurde gestartet
+2023-07-28 08:39:29,908 - Programm wurde gestartet
+2023-07-28 08:40:30,931 - Programm wurde gestartet
+2023-07-28 08:40:41,644 - Programm wurde gestartet
+2023-07-28 09:01:11,599 - Programm wurde gestartet
+2023-07-28 10:05:13,023 - Name gepsichert
+2023-07-28 10:05:20,754 - Firma gepsichert
+2023-07-28 10:06:06,050 - Aktuelles Datum
+2023-07-28 10:06:42,254 - letzer Name gelöscht
+2023-07-28 10:06:46,671 - Alle Firmen gelöscht
+2023-07-28 10:06:47,042 - Error: Keine Namen gefunden
+2023-07-28 10:06:48,282 - Error: Keine Firma gefunden
+2023-07-28 10:06:48,506 - Error: Keine Firma gefunden
+2023-07-28 10:06:49,141 - Error: Keine Namen gefunden
+2023-07-28 10:06:49,393 - Error: Keine Namen gefunden
+2023-07-28 10:06:55,275 - Name gepsichert
+2023-07-28 10:06:56,239 - Firma gepsichert
+2023-07-28 10:06:58,445 - 2 Firma modus an
+2023-07-28 10:07:29,981 - 2 Firma modus aus
+2023-07-28 10:07:30,840 - 2 Firma modus an
+2023-07-28 10:07:34,117 - Name gepsichert
+2023-07-28 10:13:22,759 - Programm wurde gestartet
+2023-07-28 10:13:27,627 - Name gepsichert
+2023-07-28 10:13:28,372 - Name gepsichert
+2023-07-28 10:13:28,583 - Name gepsichert
+2023-07-28 10:13:28,806 - Name gepsichert
+2023-07-28 10:13:29,018 - Name gepsichert
+2023-07-28 10:13:29,221 - Name gepsichert
+2023-07-28 10:13:29,406 - Name gepsichert
+2023-07-28 10:13:30,628 - Name gepsichert
+2023-07-28 10:13:41,461 - Programm wurde gestartet
+2023-07-28 10:13:50,957 - Programm wurde gestartet
+2023-07-28 10:13:54,198 - Name gepsichert
+2023-07-28 10:13:54,962 - Name gepsichert
+2023-07-28 10:13:55,151 - Name gepsichert
+2023-07-28 10:13:55,570 - Error: Keine Namen eingefügt
+2023-07-28 10:13:56,454 - Name gepsichert
+2023-07-28 10:13:58,486 - Name gepsichert
+2023-07-28 10:14:13,925 - Programm wurde gestartet
+2023-07-28 10:14:16,700 - Error: Keine Namen eingefügt
+2023-07-28 10:14:17,404 - Error: Keine Firma eingefügt
+2023-07-28 10:14:18,010 - Aktuelles Datum
+2023-07-28 10:14:18,244 - Aktuelles Datum
+2023-07-28 10:14:18,751 - Error: Kein Namen gefunden
+2023-07-28 10:14:19,456 - Error: Keine Firma gefunden
+2023-07-28 10:14:20,017 - Alles Zurückgesetzt
+2023-07-28 10:14:20,021 - Gültig ab gelöscht.
+2023-07-28 10:14:20,029 - Gültig bis gelöscht.
+2023-07-28 10:14:20,355 - Alles Zurückgesetzt
+2023-07-28 10:14:20,359 - Gültig ab gelöscht.
+2023-07-28 10:14:20,363 - Gültig bis gelöscht.
+2023-07-28 10:14:21,701 - Error: Kein Namen gefunden
+2023-07-28 10:14:22,165 - Error: Keine Datum vorhanden
+2023-07-28 10:14:22,804 - Error: Keine Firma eingefügt
+2023-07-28 10:14:22,990 - Error: Keine Firma eingefügt
+2023-07-28 10:14:23,271 - Error: Keine Namen eingefügt
+2023-07-28 10:14:23,516 - Error: Keine Namen eingefügt
+2023-07-28 10:14:49,577 - Programm wurde gestartet
+2023-07-28 10:14:52,249 - Error: Keine Firma eingefügt
+2023-07-28 10:14:52,715 - Error: Keine Datum vorhanden
+2023-07-28 10:14:53,083 - Error: Kein Namen gefunden
+2023-07-28 10:14:54,698 - Error: Kein Namen gefunden
+2023-07-28 10:14:55,065 - Error: Keine Namen gefunden
+2023-07-28 10:14:55,268 - Error: Keine Namen gefunden
+2023-07-28 10:14:55,673 - Error: Keine Firma gefunden
+2023-07-28 10:14:55,856 - Error: Keine Firma gefunden
+2023-07-28 10:14:56,442 - Alles Zurückgesetzt
+2023-07-28 10:14:56,446 - Gültig ab gelöscht.
+2023-07-28 10:14:56,449 - Gültig bis gelöscht.
+2023-07-28 10:14:56,609 - Alles Zurückgesetzt
+2023-07-28 10:14:56,613 - Gültig ab gelöscht.
+2023-07-28 10:14:56,616 - Gültig bis gelöscht.
+2023-07-28 10:14:57,508 - Error: Keine Firma gefunden
+2023-07-28 10:14:57,712 - Error: Keine Namen gefunden
+2023-07-28 10:14:58,065 - Error: Kein Namen gefunden
+2023-07-28 10:14:58,627 - Error: Keine Datum vorhanden
+2023-07-28 10:14:58,831 - Error: Keine Datum vorhanden
+2023-07-28 10:14:59,229 - Error: Keine Firma eingefügt
+2023-07-28 10:14:59,406 - Error: Keine Firma eingefügt
+2023-07-28 10:18:22,670 - Programm wurde gestartet
+2023-07-28 10:18:37,080 - Name gepsichert
+2023-07-28 10:18:37,429 - Firma gepsichert
+2023-07-28 10:18:41,677 - Bildschirmschoner erstellt
+2023-07-28 10:18:41,681 - Gültig ab gespeichert.
+2023-07-28 10:18:41,689 - Gültig bis gespeichert.
+2023-07-28 10:19:42,198 - Programm wurde gestartet
+2023-07-28 10:19:44,509 - Alles Zurückgesetzt
+2023-07-28 10:19:44,512 - Gültig ab gelöscht.
+2023-07-28 10:19:44,520 - Gültig bis gelöscht.
+2023-07-28 10:36:13,169 - Programm wurde gestartet
+2023-07-28 10:36:17,900 - Name gepsichert
+2023-07-28 10:36:18,168 - Firma gepsichert
+2023-07-28 10:36:20,220 - Bildschirmschoner erstellt
+2023-07-28 10:36:20,224 - Gültig ab gespeichert.
+2023-07-28 10:36:20,233 - Gültig bis gespeichert.
+2023-07-28 10:39:33,618 - Programm wurde gestartet
+2023-07-28 10:39:35,397 - Bildschirmschoner erstellt
+2023-07-28 10:39:35,402 - Gültig ab gespeichert.
+2023-07-28 10:39:35,411 - Gültig bis gespeichert.
+2023-07-28 10:40:52,921 - Programm wurde gestartet
+2023-07-28 10:40:55,741 - Programm wurde gestartet
+2023-07-28 10:40:57,387 - Bildschirmschoner erstellt
+2023-07-28 10:40:57,387 - Gültig ab gespeichert.
+2023-07-28 10:40:57,399 - Gültig bis gespeichert.
+2023-07-28 10:42:00,550 - Programm wurde gestartet
+2023-07-28 10:42:08,835 - Bildschirmschoner erstellt
+2023-07-28 10:42:08,839 - Gültig ab gespeichert.
+2023-07-28 10:42:08,847 - Gültig bis gespeichert.
+2023-07-28 10:43:33,573 - Programm wurde gestartet
+2023-07-28 10:43:38,823 - Bildschirmschoner erstellt
+2023-07-28 10:43:38,828 - Gültig ab gespeichert.
+2023-07-28 10:43:38,835 - Gültig bis gespeichert.
+2023-07-28 10:45:03,457 - Programm wurde gestartet
+2023-07-28 10:45:04,960 - Bildschirmschoner erstellt
+2023-07-28 10:45:04,965 - Gültig ab gespeichert.
+2023-07-28 10:45:04,974 - Gültig bis gespeichert.
+2023-07-28 10:46:27,122 - Programm wurde gestartet
+2023-07-28 10:46:33,568 - Bildschirmschoner erstellt
+2023-07-28 10:46:33,568 - Gültig ab gespeichert.
+2023-07-28 10:46:33,583 - Gültig bis gespeichert.
+2023-07-28 10:47:15,972 - Programm wurde gestartet
+2023-07-28 10:47:20,342 - Name gepsichert
+2023-07-28 10:47:20,609 - Firma gepsichert
+2023-07-28 10:47:21,414 - Bildschirmschoner erstellt
+2023-07-28 10:47:21,417 - Gültig ab gespeichert.
+2023-07-28 10:47:21,429 - Gültig bis gespeichert.
+2023-07-28 10:50:44,929 - Programm wurde gestartet
+2023-07-28 10:50:47,690 - Bildschirmschoner erstellt
+2023-07-28 10:50:47,694 - Gültig ab gespeichert.
+2023-07-28 10:50:47,703 - Gültig bis gespeichert.
+2023-07-28 10:52:00,957 - Programm wurde gestartet
+2023-07-28 10:52:06,244 - Name gepsichert
+2023-07-28 10:52:06,670 - Firma gepsichert
+2023-07-28 10:52:08,241 - Bildschirmschoner erstellt
+2023-07-28 10:52:08,251 - Gültig ab gespeichert.
+2023-07-28 10:52:08,261 - Gültig bis gespeichert.
+2023-07-28 11:01:11,428 - Programm wurde gestartet
+2023-07-28 11:01:15,680 - Name gepsichert
+2023-07-28 11:01:15,952 - Firma gepsichert
+2023-07-28 11:01:17,404 - Bildschirmschoner erstellt
+2023-07-28 11:01:17,410 - Gültig ab gespeichert.
+2023-07-28 11:01:17,420 - Gültig bis gespeichert.
+2023-07-28 11:02:48,363 - Programm wurde gestartet
+2023-07-28 11:02:50,429 - Bildschirmschoner erstellt
+2023-07-28 11:02:50,434 - Gültig ab gespeichert.
+2023-07-28 11:02:50,441 - Gültig bis gespeichert.
+2023-07-28 11:05:11,071 - Bildschirmschoner erstellt
+2023-07-28 11:05:11,075 - Gültig ab gespeichert.
+2023-07-28 11:05:11,081 - Gültig bis gespeichert.
+2023-07-28 11:05:14,484 - Programm wurde gestartet
+2023-07-28 11:08:28,320 - Programm wurde gestartet
+2023-07-28 11:08:31,950 - Name gepsichert
+2023-07-28 11:08:32,747 - Firma gepsichert
+2023-07-28 11:08:34,997 - Bildschirmschoner erstellt
+2023-07-28 11:08:35,008 - Gültig ab gespeichert.
+2023-07-28 11:08:35,024 - Gültig bis gespeichert.
+2023-07-28 11:09:38,685 - Bildschirmschoner erstellt
+2023-07-28 11:09:38,690 - Gültig ab gespeichert.
+2023-07-28 11:09:38,697 - Gültig bis gespeichert.
+2023-07-28 11:09:41,071 - Name gepsichert
+2023-07-28 11:09:41,433 - Firma gepsichert
+2023-07-28 11:09:41,996 - Bildschirmschoner erstellt
+2023-07-28 11:09:42,000 - Gültig ab gespeichert.
+2023-07-28 11:09:42,014 - Gültig bis gespeichert.
+2023-07-28 11:10:12,222 - Programm wurde gestartet
+2023-07-28 11:10:29,653 - Name gepsichert
+2023-07-28 11:10:30,403 - Firma gepsichert
+2023-07-28 11:10:31,867 - Bildschirmschoner erstellt
+2023-07-28 11:10:31,875 - Gültig ab gespeichert.
+2023-07-28 11:10:31,882 - Gültig bis gespeichert.
+2023-07-28 11:15:03,760 - Programm wurde gestartet
+2023-07-28 11:17:31,241 - Programm wurde gestartet
+2023-07-28 11:17:45,535 - Name gepsichert
+2023-07-28 11:17:50,125 - Firma gepsichert
+2023-07-28 11:18:08,601 - Aktuelles Datum
+2023-07-28 11:18:21,306 - 2 Firmen modus an
+2023-07-28 11:18:24,092 - Name gepsichert
+2023-07-28 11:18:27,585 - Alles Zurückgesetzt
+2023-07-28 11:18:27,588 - Gültig ab gelöscht.
+2023-07-28 11:18:27,593 - Gültig bis gelöscht.
+2023-07-28 11:18:44,176 - letzer Name gelöscht
+2023-07-28 11:18:44,752 - Error: Kein Namen gefunden
+2023-07-28 11:18:45,478 - Error: Kein Namen gefunden
+2023-07-28 11:18:45,781 - Error: Kein Namen gefunden
+2023-07-28 11:18:45,953 - Error: Kein Namen gefunden
+2023-07-28 11:18:46,116 - Error: Kein Namen gefunden
+2023-07-28 11:18:46,252 - Error: Kein Namen gefunden
+2023-07-28 11:18:46,386 - Error: Kein Namen gefunden
+2023-07-28 11:18:46,543 - Error: Kein Namen gefunden
+2023-07-28 11:18:46,705 - Error: Kein Namen gefunden
+2023-07-28 11:18:46,865 - Error: Kein Namen gefunden
+2023-07-28 11:39:12,655 - Programm wurde gestartet
+2023-07-28 11:39:14,961 - Error: Keine Namen gefunden
+2023-07-28 11:39:15,450 - Error: Keine Namen gefunden
+2023-07-28 11:39:15,638 - Error: Keine Namen gefunden
+2023-07-28 11:39:15,813 - Error: Keine Namen gefunden
+2023-07-28 11:39:21,000 - Name gepsichert
+2023-07-28 11:39:22,519 - Alle Namen gelöscht
+2023-07-28 11:39:24,804 - 2 Firmen modus an
+2023-07-28 11:39:26,994 - Name gepsichert
+2023-07-28 11:39:30,792 - 2 Firmen modus aus
+2023-07-28 11:39:31,654 - Error: Keine Namen gefunden
+2023-07-28 11:39:32,936 - 2 Firmen modus an
+2023-07-28 11:39:33,520 - Alle Namen gelöscht
+2023-07-28 11:47:19,660 - Programm wurde gestartet
+2023-07-28 11:47:22,254 - Name gepsichert
+2023-07-28 11:47:24,303 - Name gepsichert
+2023-07-28 11:47:25,709 - Name gepsichert
+2023-07-28 11:47:28,182 - Firma gepsichert
+2023-07-28 11:47:29,540 - Bildschirmschoner erstellt
+2023-07-28 11:47:29,543 - Gültig ab gespeichert.
+2023-07-28 11:47:29,546 - Gültig bis gespeichert.
+2023-07-28 11:48:46,889 - Programm wurde gestartet
+2023-07-28 11:48:50,236 - Name gepsichert
+2023-07-28 11:48:51,962 - Name gepsichert
+2023-07-28 11:48:53,297 - Name gepsichert
+2023-07-28 11:48:56,224 - Firma gepsichert
+2023-07-28 11:48:57,416 - Bildschirmschoner erstellt
+2023-07-28 11:48:57,420 - Gültig ab gespeichert.
+2023-07-28 11:48:57,425 - Gültig bis gespeichert.
+2023-07-28 11:55:30,874 - Programm wurde gestartet
+2023-07-28 11:55:36,050 - Name gepsichert
+2023-07-28 11:55:36,687 - Name gepsichert
+2023-07-28 11:55:36,976 - Name gepsichert
+2023-07-28 11:55:37,160 - Name gepsichert
+2023-07-28 11:55:37,324 - Name gepsichert
+2023-07-28 11:55:37,490 - Name gepsichert
+2023-07-28 11:55:37,652 - Name gepsichert
+2023-07-28 11:55:39,396 - Name gepsichert
+2023-07-28 11:55:41,469 - Firma gepsichert
+2023-07-28 11:55:44,673 - Bildschirmschoner erstellt
+2023-07-28 11:55:44,677 - Gültig ab gespeichert.
+2023-07-28 11:55:44,683 - Gültig bis gespeichert.
+2023-07-28 12:38:36,148 - Programm wurde gestartet
+2023-07-28 12:38:38,978 - Alles Zurückgesetzt
+2023-07-28 12:38:38,981 - Gültig ab gelöscht.
+2023-07-28 12:38:38,984 - Gültig bis gelöscht.
+2023-07-28 12:42:57,598 - Programm wurde gestartet
+2023-07-28 12:42:58,882 - Alles Zurückgesetzt
+2023-07-28 12:42:58,886 - Gültig ab gelöscht.
+2023-07-28 12:42:58,889 - Gültig bis gelöscht.
+2023-07-28 12:44:00,212 - Programm wurde gestartet
+2023-07-28 12:44:02,498 - Alles Zurückgesetzt
+2023-07-28 12:44:02,502 - Gültig ab gelöscht.
+2023-07-28 12:44:02,505 - Gültig bis gelöscht.
+2023-07-28 12:55:10,096 - Programm wurde gestartet
+2023-07-28 13:29:14,433 - Programm wurde gestartet
+2023-07-28 13:29:17,033 - Bildschirmschoner erstellt
+2023-07-28 13:29:17,033 - Gültig ab gespeichert.
+2023-07-28 13:29:17,045 - Gültig bis gespeichert.
+2023-07-28 13:30:01,692 - Programm wurde gestartet
+2023-07-28 13:30:03,684 - Bildschirmschoner erstellt
+2023-07-28 13:30:03,690 - Gültig ab gespeichert.
+2023-07-28 13:30:03,698 - Gültig bis gespeichert.
+2023-07-28 13:34:51,710 - Programm wurde gestartet
+2023-07-28 13:34:53,453 - Bildschirmschoner erstellt
+2023-07-28 13:34:53,453 - Gültig ab gespeichert.
+2023-07-28 13:34:53,465 - Gültig bis gespeichert.
+2023-07-28 13:37:08,524 - Programm wurde gestartet
+2023-07-28 13:37:10,806 - Bildschirmschoner erstellt
+2023-07-28 13:37:10,806 - Gültig ab gespeichert.
+2023-07-28 13:37:10,816 - Gültig bis gespeichert.
+2023-07-28 13:37:44,334 - Programm wurde gestartet
+2023-07-28 13:37:46,051 - Bildschirmschoner erstellt
+2023-07-28 13:37:46,051 - Gültig ab gespeichert.
+2023-07-28 13:37:46,068 - Gültig bis gespeichert.
+2023-07-31 07:28:05,252 - Programm wurde gestartet
+2023-07-31 07:34:14,151 - Programm wurde gestartet
+2023-07-31 07:49:16,024 - Programm wurde gestartet
+2023-07-31 07:55:32,390 - Name gepsichert
+2023-07-31 07:55:32,858 - Firma gepsichert
+2023-07-31 07:55:36,907 - Bildschirmschoner erstellt
+2023-07-31 07:55:36,915 - Gültig ab gespeichert.
+2023-07-31 07:55:36,921 - Gültig bis gespeichert.
+2023-07-31 08:00:11,894 - Programm wurde gestartet
+2023-07-31 08:00:26,347 - Name gepsichert
+2023-07-31 08:00:26,934 - Firma gepsichert
+2023-07-31 08:00:28,255 - Bildschirmschoner erstellt
+2023-07-31 08:00:28,260 - Gültig ab gespeichert.
+2023-07-31 08:00:28,264 - Gültig bis gespeichert.
+2023-07-31 08:06:19,888 - Programm wurde gestartet
+2023-07-31 08:06:28,063 - Name gepsichert
+2023-07-31 08:06:28,719 - Firma gepsichert
+2023-07-31 08:06:34,655 - Bildschirmschoner erstellt
+2023-07-31 08:06:34,658 - Gültig ab gespeichert.
+2023-07-31 08:06:34,664 - Gültig bis gespeichert.
+2023-07-31 08:07:35,294 - Programm wurde gestartet
+2023-07-31 08:07:39,864 - Name gepsichert
+2023-07-31 08:07:40,152 - Firma gepsichert
+2023-07-31 08:07:40,619 - Bildschirmschoner erstellt
+2023-07-31 08:07:40,623 - Gültig ab gespeichert.
+2023-07-31 08:07:40,636 - Gültig bis gespeichert.
+2023-07-31 09:49:07,511 - Programm wurde gestartet
+2023-07-31 09:49:12,315 - Name gepsichert
+2023-07-31 09:49:13,789 - Name gepsichert
+2023-07-31 09:49:16,447 - Firma gepsichert
+2023-07-31 09:49:17,143 - Bildschirmschoner erstellt
+2023-07-31 09:49:17,147 - Gültig ab gespeichert.
+2023-07-31 09:49:17,155 - Gültig bis gespeichert.
+2023-07-31 13:48:11,304 - Programm wurde gestartet
+2023-07-31 13:48:33,299 - Name gepsichert
+2023-07-31 13:48:38,473 - Name gepsichert
+2023-07-31 13:48:43,922 - Name gepsichert
+2023-07-31 13:49:01,699 - Aktuelles Datum
+2023-07-31 13:49:20,961 - 2 Firmen modus an
+2023-07-31 13:49:28,765 - Firma gepsichert
+2023-07-31 13:49:29,047 - Name gepsichert
+2023-07-31 13:50:14,404 - Alle Namen gelöscht
+2023-07-31 13:50:20,381 - 2 Firmen modus aus
+2023-07-31 13:50:38,830 - Alles Zurückgesetzt
+2023-07-31 13:50:38,836 - Gültig ab gelöscht.
+2023-07-31 13:50:38,840 - Gültig bis gelöscht.
+2023-07-31 13:52:25,053 - Programm wurde gestartet
+2023-07-31 13:54:08,960 - Programm wurde gestartet
+2023-07-31 13:54:42,363 - Programm wurde gestartet
+2023-07-31 13:54:49,664 - Name gepsichert
+2023-07-31 13:54:52,540 - Firma gepsichert
+2023-07-31 13:54:54,406 - 2 Firmen modus an
+2023-07-31 13:54:55,794 - Name gepsichert
+2023-07-31 13:54:56,330 - Firma gepsichert
+2023-07-31 13:54:58,178 - Alle Firmen gelöscht
+2023-07-31 13:55:01,064 - letzer Name gelöscht
+2023-07-31 13:58:28,853 - Programm wurde gestartet
+2023-07-31 13:58:31,229 - 2 Firmen modus an
+2023-07-31 13:58:56,989 - Programm wurde gestartet
+2023-07-31 13:58:58,878 - 2 Firmen modus an
+2023-07-31 13:58:59,412 - 2 Firmen modus aus
+2023-07-31 13:59:37,103 - Programm wurde gestartet
+2023-07-31 13:59:39,264 - 2 Firmen modus an
+2023-07-31 14:00:12,619 - Programm wurde gestartet
+2023-07-31 14:00:14,602 - 2 Firmen modus an
+2023-07-31 14:00:30,614 - Programm wurde gestartet
+2023-07-31 14:01:01,204 - Programm wurde gestartet
+2023-07-31 14:01:16,387 - Programm wurde gestartet
+2023-07-31 14:01:18,548 - 2 Firmen modus an
+2023-07-31 14:01:18,927 - 2 Firmen modus aus
+2023-07-31 14:01:19,102 - 2 Firmen modus an
+2023-07-31 14:01:19,284 - 2 Firmen modus aus
+2023-07-31 14:01:19,460 - 2 Firmen modus an
+2023-07-31 14:01:19,642 - 2 Firmen modus aus
+2023-07-31 14:01:19,817 - 2 Firmen modus an
+2023-07-31 14:01:46,593 - Programm wurde gestartet
+2023-07-31 14:01:48,075 - 2 Firmen modus an
+2023-07-31 14:01:48,347 - 2 Firmen modus aus
+2023-07-31 14:01:48,539 - 2 Firmen modus an
+2023-07-31 14:01:48,701 - 2 Firmen modus aus
+2023-07-31 14:04:04,242 - Programm wurde gestartet
+2023-07-31 14:04:05,898 - 2 Firmen modus an
+2023-07-31 14:04:06,283 - 2 Firmen modus aus
+2023-07-31 14:04:06,462 - 2 Firmen modus an
+2023-07-31 14:04:06,613 - 2 Firmen modus aus
+2023-07-31 14:04:06,981 - 2 Firmen modus an
+2023-07-31 14:04:30,909 - Programm wurde gestartet
+2023-07-31 14:04:32,813 - 2 Firmen modus an
+2023-07-31 14:04:33,303 - 2 Firmen modus aus
+2023-07-31 14:04:33,639 - 2 Firmen modus an
+2023-07-31 14:04:33,973 - 2 Firmen modus aus
+2023-07-31 14:04:34,135 - 2 Firmen modus an
+2023-07-31 14:04:34,312 - 2 Firmen modus aus
+2023-07-31 14:04:34,487 - 2 Firmen modus an
+2023-07-31 14:04:42,043 - 2 Firmen modus aus
+2023-07-31 14:04:42,330 - 2 Firmen modus an
+2023-07-31 14:04:42,490 - 2 Firmen modus aus
+2023-07-31 14:04:42,587 - 2 Firmen modus an
+2023-07-31 14:04:42,729 - 2 Firmen modus aus
+2023-07-31 14:04:42,945 - 2 Firmen modus an
+2023-07-31 14:04:43,070 - 2 Firmen modus aus
+2023-07-31 14:04:43,198 - 2 Firmen modus an
+2023-07-31 14:04:43,338 - 2 Firmen modus aus
+2023-07-31 14:04:43,464 - 2 Firmen modus an
+2023-07-31 14:04:43,601 - 2 Firmen modus aus
+2023-07-31 14:04:43,743 - 2 Firmen modus an
+2023-07-31 14:04:43,872 - 2 Firmen modus aus
+2023-07-31 14:04:44,021 - 2 Firmen modus an
+2023-07-31 14:04:44,168 - 2 Firmen modus aus
+2023-07-31 14:04:44,313 - 2 Firmen modus an
+2023-07-31 14:04:44,453 - 2 Firmen modus aus
+2023-07-31 14:04:44,588 - 2 Firmen modus an
+2023-07-31 14:04:44,737 - 2 Firmen modus aus
+2023-07-31 14:04:44,878 - 2 Firmen modus an
+2023-07-31 14:04:45,029 - 2 Firmen modus aus
+2023-07-31 14:04:45,178 - 2 Firmen modus an
+2023-07-31 14:04:45,331 - 2 Firmen modus aus
+2023-07-31 14:04:45,483 - 2 Firmen modus an
+2023-07-31 14:04:45,628 - 2 Firmen modus aus
+2023-07-31 14:04:45,779 - 2 Firmen modus an
+2023-07-31 14:04:45,927 - 2 Firmen modus aus
+2023-07-31 14:04:46,073 - 2 Firmen modus an
+2023-07-31 14:04:46,225 - 2 Firmen modus aus
+2023-07-31 14:04:46,365 - 2 Firmen modus an
+2023-07-31 14:04:46,517 - 2 Firmen modus aus
+2023-07-31 14:04:46,663 - 2 Firmen modus an
+2023-07-31 14:04:46,819 - 2 Firmen modus aus
+2023-07-31 14:04:46,982 - 2 Firmen modus an
+2023-07-31 14:04:47,178 - 2 Firmen modus aus
+2023-07-31 14:04:47,435 - 2 Firmen modus an
+2023-07-31 14:04:47,741 - 2 Firmen modus aus
+2023-07-31 14:04:47,909 - 2 Firmen modus an
+2023-07-31 14:04:48,085 - 2 Firmen modus aus
+2023-07-31 14:04:48,206 - 2 Firmen modus an
+2023-07-31 14:04:48,343 - 2 Firmen modus aus
+2023-07-31 14:04:48,499 - 2 Firmen modus an
+2023-07-31 14:04:48,654 - 2 Firmen modus aus
+2023-07-31 14:04:48,817 - 2 Firmen modus an
+2023-07-31 14:04:49,292 - 2 Firmen modus aus
+2023-07-31 14:04:49,418 - 2 Firmen modus an
+2023-07-31 14:04:49,599 - 2 Firmen modus aus
+2023-07-31 14:04:50,194 - 2 Firmen modus an
+2023-07-31 14:04:53,756 - 2 Firmen modus aus
+2023-07-31 14:04:53,931 - 2 Firmen modus an
+2023-07-31 14:04:54,188 - 2 Firmen modus aus
+2023-07-31 14:04:54,451 - 2 Firmen modus an
+2023-07-31 14:05:09,925 - 2 Firmen modus aus
+2023-07-31 14:05:10,119 - 2 Firmen modus an
+2023-07-31 14:05:10,279 - 2 Firmen modus aus
+2023-07-31 14:05:10,419 - 2 Firmen modus an
+2023-07-31 14:05:10,570 - 2 Firmen modus aus
+2023-07-31 14:05:10,703 - 2 Firmen modus an
+2023-07-31 14:05:10,839 - 2 Firmen modus aus
+2023-07-31 14:05:10,970 - 2 Firmen modus an
+2023-07-31 14:05:11,119 - 2 Firmen modus aus
+2023-07-31 14:05:11,269 - 2 Firmen modus an
+2023-07-31 14:05:11,419 - 2 Firmen modus aus
+2023-07-31 14:05:11,560 - 2 Firmen modus an
+2023-07-31 14:05:11,710 - 2 Firmen modus aus
+2023-07-31 14:05:11,850 - 2 Firmen modus an
+2023-07-31 14:05:11,999 - 2 Firmen modus aus
+2023-07-31 14:05:12,149 - 2 Firmen modus an
+2023-07-31 14:05:12,294 - 2 Firmen modus aus
+2023-07-31 14:05:12,453 - 2 Firmen modus an
+2023-07-31 14:05:12,610 - 2 Firmen modus aus
+2023-07-31 14:05:12,743 - 2 Firmen modus an
+2023-07-31 14:05:12,932 - 2 Firmen modus aus
+2023-07-31 14:05:13,170 - 2 Firmen modus an
+2023-07-31 14:05:13,360 - 2 Firmen modus aus
+2023-07-31 14:05:13,599 - 2 Firmen modus an
+2023-07-31 14:05:13,810 - 2 Firmen modus aus
+2023-07-31 14:05:14,060 - 2 Firmen modus an
+2023-07-31 14:05:14,303 - 2 Firmen modus aus
+2023-07-31 14:05:14,550 - 2 Firmen modus an
+2023-07-31 14:05:14,960 - 2 Firmen modus aus
+2023-07-31 14:05:15,160 - 2 Firmen modus an
+2023-07-31 14:05:15,450 - 2 Firmen modus aus
+2023-07-31 14:05:15,767 - 2 Firmen modus an
+2023-07-31 14:05:16,039 - 2 Firmen modus aus
+2023-07-31 14:05:16,317 - 2 Firmen modus an
+2023-07-31 14:05:16,610 - 2 Firmen modus aus
+2023-07-31 14:05:16,829 - 2 Firmen modus an
+2023-07-31 14:05:17,023 - 2 Firmen modus aus
+2023-07-31 14:05:17,389 - 2 Firmen modus an
+2023-07-31 14:05:19,419 - 2 Firmen modus aus
+2023-07-31 14:05:19,639 - 2 Firmen modus an
+2023-07-31 14:05:19,839 - 2 Firmen modus aus
+2023-07-31 14:05:20,245 - 2 Firmen modus an
+2023-07-31 14:05:20,517 - 2 Firmen modus aus
+2023-07-31 14:05:20,779 - 2 Firmen modus an
+2023-07-31 14:05:21,405 - 2 Firmen modus aus
+2023-07-31 14:05:21,879 - 2 Firmen modus an
+2023-07-31 14:05:22,293 - 2 Firmen modus aus
+2023-07-31 14:05:22,660 - 2 Firmen modus an
+2023-07-31 14:05:23,060 - 2 Firmen modus aus
+2023-07-31 14:05:23,394 - 2 Firmen modus an
+2023-07-31 14:05:28,980 - 2 Firmen modus aus
+2023-07-31 14:05:29,189 - 2 Firmen modus an
+2023-07-31 14:05:29,399 - 2 Firmen modus aus
+2023-07-31 14:05:29,644 - 2 Firmen modus an
+2023-07-31 14:06:07,730 - Programm wurde gestartet
+2023-07-31 14:06:09,308 - 2 Firmen modus an
+2023-07-31 14:06:09,626 - 2 Firmen modus aus
+2023-07-31 14:06:09,888 - 2 Firmen modus an
+2023-07-31 14:07:10,470 - Programm wurde gestartet
+2023-07-31 14:08:08,596 - Programm wurde gestartet
+2023-07-31 14:08:22,002 - 2 Firmen modus an
+2023-07-31 14:08:25,542 - Programm wurde gestartet
+2023-07-31 14:09:04,525 - 2 Firmen modus an
+2023-07-31 14:09:35,005 - Programm wurde gestartet
+2023-07-31 14:09:37,783 - 2 Firmen modus aus
+2023-07-31 14:09:46,179 - Programm wurde gestartet
+2023-07-31 14:09:48,236 - 2 Firmen modus an
+2023-07-31 14:10:21,833 - Programm wurde gestartet
+2023-07-31 14:10:33,845 - Programm wurde gestartet
+2023-07-31 14:10:39,871 - Programm wurde gestartet
+2023-07-31 14:10:42,009 - 2 Firmen modus aus
+2023-07-31 14:10:42,839 - 2 Firmen modus aus
+2023-07-31 14:41:10,189 - Programm wurde gestartet
+2023-07-31 14:41:41,959 - Programm wurde gestartet
+2023-07-31 14:41:43,212 - 2 Firmen modus an
+2023-07-31 14:41:43,629 - 2 Firmen modus aus
+2023-07-31 14:41:43,897 - 2 Firmen modus an
+2023-07-31 14:43:14,012 - Programm wurde gestartet
+2023-07-31 14:43:15,792 - 2 Firmen modus an
+2023-07-31 14:43:16,660 - 2 Firmen modus aus
+2023-07-31 14:43:16,988 - 2 Firmen modus an
+2023-07-31 14:43:17,240 - 2 Firmen modus aus
+2023-07-31 14:43:17,522 - 2 Firmen modus an
+2023-07-31 14:43:17,950 - 2 Firmen modus aus
+2023-07-31 14:43:18,681 - 2 Firmen modus an
+2023-07-31 14:43:19,978 - 2 Firmen modus aus
+2023-07-31 14:43:20,789 - 2 Firmen modus an
+2023-07-31 14:43:25,167 - 2 Firmen modus aus
+2023-07-31 14:43:42,894 - Programm wurde gestartet
+2023-07-31 14:43:44,632 - 2 Firmen modus an
+2023-07-31 14:43:45,540 - 2 Firmen modus aus
+2023-07-31 14:43:46,447 - 2 Firmen modus an
+2023-07-31 14:43:47,073 - 2 Firmen modus aus
+2023-07-31 14:43:47,462 - 2 Firmen modus an
+2023-07-31 14:43:48,002 - 2 Firmen modus aus
+2023-07-31 14:43:48,637 - 2 Firmen modus an
+2023-07-31 14:43:52,792 - 2 Firmen modus aus
+2023-07-31 14:43:53,896 - 2 Firmen modus an
+2023-07-31 14:43:54,273 - 2 Firmen modus aus
+2023-07-31 14:43:54,512 - 2 Firmen modus an
+2023-07-31 14:43:54,692 - 2 Firmen modus aus
+2023-07-31 14:43:54,854 - 2 Firmen modus an
+2023-07-31 14:43:55,014 - 2 Firmen modus aus
+2023-07-31 14:43:55,136 - 2 Firmen modus an
+2023-07-31 14:43:55,271 - 2 Firmen modus aus
+2023-07-31 14:43:55,367 - 2 Firmen modus an
+2023-07-31 14:43:55,526 - 2 Firmen modus aus
+2023-07-31 14:43:55,957 - 2 Firmen modus an
+2023-07-31 14:43:56,106 - 2 Firmen modus aus
+2023-07-31 14:43:56,261 - 2 Firmen modus an
+2023-07-31 14:43:56,411 - 2 Firmen modus aus
+2023-07-31 14:43:56,563 - 2 Firmen modus an
+2023-07-31 14:43:56,705 - 2 Firmen modus aus
+2023-07-31 14:43:56,843 - 2 Firmen modus an
+2023-07-31 14:43:56,985 - 2 Firmen modus aus
+2023-07-31 14:43:57,130 - 2 Firmen modus an
+2023-07-31 14:43:57,265 - 2 Firmen modus aus
+2023-07-31 14:43:57,401 - 2 Firmen modus an
+2023-07-31 14:43:57,547 - 2 Firmen modus aus
+2023-07-31 14:43:57,693 - 2 Firmen modus an
+2023-07-31 14:43:57,839 - 2 Firmen modus aus
+2023-07-31 14:43:57,997 - 2 Firmen modus an
+2023-07-31 14:43:58,147 - 2 Firmen modus aus
+2023-07-31 14:43:58,309 - 2 Firmen modus an
+2023-07-31 14:43:58,446 - 2 Firmen modus aus
+2023-07-31 14:43:58,607 - 2 Firmen modus an
+2023-07-31 14:43:58,757 - 2 Firmen modus aus
+2023-07-31 14:43:58,916 - 2 Firmen modus an
+2023-07-31 14:43:59,055 - 2 Firmen modus aus
+2023-07-31 14:43:59,203 - 2 Firmen modus an
+2023-07-31 14:43:59,366 - 2 Firmen modus aus
+2023-07-31 14:43:59,511 - 2 Firmen modus an
+2023-07-31 14:43:59,664 - 2 Firmen modus aus
+2023-07-31 14:43:59,820 - 2 Firmen modus an
+2023-07-31 14:43:59,949 - 2 Firmen modus aus
+2023-07-31 14:44:00,097 - 2 Firmen modus an
+2023-07-31 14:44:00,238 - 2 Firmen modus aus
+2023-07-31 14:44:00,398 - 2 Firmen modus an
+2023-07-31 14:44:00,535 - 2 Firmen modus aus
+2023-08-01 08:37:31,720 - Programm wurde gestartet
+2023-08-01 08:37:33,693 - 2 Firmen modus an
+2023-08-01 08:37:34,207 - 2 Firmen modus aus
+2023-08-01 08:37:34,661 - 2 Firmen modus an
+2023-08-01 08:37:35,424 - 2 Firmen modus aus
+2023-08-01 08:37:36,741 - 2 Firmen modus an
+2023-08-01 08:37:37,592 - 2 Firmen modus aus
+2023-08-01 08:37:38,268 - 2 Firmen modus an
+2023-08-01 08:37:42,794 - Name gepsichert
+2023-08-01 08:38:11,440 - Programm wurde gestartet
+2023-08-01 08:38:14,656 - Name gepsichert
+2023-08-01 08:38:15,794 - 2 Firmen modus an
+2023-08-01 08:38:16,639 - 2 Firmen modus aus
+2023-08-01 08:38:17,133 - 2 Firmen modus an
+2023-08-01 08:38:17,517 - 2 Firmen modus aus
+2023-08-01 08:38:17,843 - 2 Firmen modus an
+2023-08-01 08:38:18,155 - 2 Firmen modus aus
+2023-08-01 08:38:18,477 - 2 Firmen modus an
+2023-08-01 08:38:18,963 - 2 Firmen modus aus
+2023-08-01 08:38:19,474 - 2 Firmen modus an
+2023-08-01 08:38:19,850 - 2 Firmen modus aus
+2023-08-01 08:38:20,175 - 2 Firmen modus an
+2023-08-01 08:38:20,421 - 2 Firmen modus aus
+2023-08-01 08:38:20,626 - 2 Firmen modus an
+2023-08-01 08:38:20,857 - 2 Firmen modus aus
+2023-08-01 08:38:21,046 - 2 Firmen modus an
+2023-08-01 08:38:21,259 - 2 Firmen modus aus
+2023-08-01 08:38:21,457 - 2 Firmen modus an
+2023-08-01 08:38:21,674 - 2 Firmen modus aus
+2023-08-01 08:38:21,857 - 2 Firmen modus an
+2023-08-01 08:38:22,090 - 2 Firmen modus aus
+2023-08-01 08:38:22,332 - 2 Firmen modus an
+2023-08-01 08:38:22,558 - 2 Firmen modus aus
+2023-08-01 08:38:22,806 - 2 Firmen modus an
+2023-08-01 08:38:23,074 - 2 Firmen modus aus
+2023-08-01 08:38:23,346 - 2 Firmen modus an
+2023-08-01 08:38:23,603 - 2 Firmen modus aus
+2023-08-01 08:38:24,290 - 2 Firmen modus an
+2023-08-01 08:38:24,706 - 2 Firmen modus aus
+2023-08-01 08:38:25,106 - 2 Firmen modus an
+2023-08-01 08:38:25,525 - 2 Firmen modus aus
+2023-08-01 08:38:25,990 - 2 Firmen modus an
+2023-08-01 08:38:26,319 - 2 Firmen modus aus
+2023-08-01 08:38:26,796 - 2 Firmen modus an
+2023-08-01 08:38:27,237 - 2 Firmen modus aus
+2023-08-01 08:38:27,701 - 2 Firmen modus an
+2023-08-01 08:38:28,091 - 2 Firmen modus aus
+2023-08-01 08:38:28,568 - 2 Firmen modus an
+2023-08-01 08:38:28,941 - 2 Firmen modus aus
+2023-08-01 08:38:29,456 - 2 Firmen modus an
+2023-08-01 08:38:30,175 - 2 Firmen modus aus
+2023-08-01 08:38:30,756 - 2 Firmen modus an
+2023-08-01 08:38:31,200 - 2 Firmen modus aus
+2023-08-01 08:38:31,613 - 2 Firmen modus an
+2023-08-01 08:38:31,995 - 2 Firmen modus aus
+2023-08-01 08:38:32,467 - 2 Firmen modus an
+2023-08-01 08:38:32,839 - 2 Firmen modus aus
+2023-08-01 08:38:33,566 - 2 Firmen modus an
+2023-08-01 08:38:34,298 - 2 Firmen modus aus
+2023-08-01 08:38:34,658 - 2 Firmen modus an
+2023-08-01 08:38:34,909 - 2 Firmen modus aus
+2023-08-01 08:38:35,107 - 2 Firmen modus an
+2023-08-01 08:38:35,259 - 2 Firmen modus aus
+2023-08-01 08:38:35,385 - 2 Firmen modus an
+2023-08-01 08:38:35,534 - 2 Firmen modus aus
+2023-08-01 08:38:35,690 - 2 Firmen modus an
+2023-08-01 08:38:35,841 - 2 Firmen modus aus
+2023-08-01 08:38:35,997 - 2 Firmen modus an
+2023-08-01 08:38:36,114 - 2 Firmen modus aus
+2023-08-01 08:38:36,259 - 2 Firmen modus an
+2023-08-01 08:38:36,459 - 2 Firmen modus aus
+2023-08-01 08:38:36,621 - 2 Firmen modus an
+2023-08-01 08:38:36,748 - 2 Firmen modus aus
+2023-08-01 08:38:36,892 - 2 Firmen modus an
+2023-08-01 08:38:37,039 - 2 Firmen modus aus
+2023-08-01 08:38:37,185 - 2 Firmen modus an
+2023-08-01 08:38:37,338 - 2 Firmen modus aus
+2023-08-01 08:38:37,492 - 2 Firmen modus an
+2023-08-01 08:38:37,642 - 2 Firmen modus aus
+2023-08-01 08:38:37,792 - 2 Firmen modus an
+2023-08-01 08:38:37,947 - 2 Firmen modus aus
+2023-08-01 08:38:38,067 - 2 Firmen modus an
+2023-08-01 08:38:38,224 - 2 Firmen modus aus
+2023-08-01 08:38:38,375 - 2 Firmen modus an
+2023-08-01 08:38:38,537 - 2 Firmen modus aus
+2023-08-01 08:38:38,675 - 2 Firmen modus an
+2023-08-01 08:38:38,827 - 2 Firmen modus aus
+2023-08-01 08:38:38,979 - 2 Firmen modus an
+2023-08-01 08:38:39,126 - 2 Firmen modus aus
+2023-08-01 08:38:39,278 - 2 Firmen modus an
+2023-08-01 08:38:39,444 - 2 Firmen modus aus
+2023-08-01 08:38:39,630 - 2 Firmen modus an
+2023-08-01 08:38:39,802 - 2 Firmen modus aus
+2023-08-01 08:38:39,965 - 2 Firmen modus an
+2023-08-01 08:38:40,127 - 2 Firmen modus aus
+2023-08-01 08:38:40,317 - 2 Firmen modus an
+2023-08-01 08:38:40,472 - 2 Firmen modus aus
+2023-08-01 08:38:40,644 - 2 Firmen modus an
+2023-08-01 08:38:40,825 - 2 Firmen modus aus
+2023-08-01 08:38:41,004 - 2 Firmen modus an
+2023-08-01 08:38:41,184 - 2 Firmen modus aus
+2023-08-01 08:38:41,358 - 2 Firmen modus an
+2023-08-01 08:38:41,517 - 2 Firmen modus aus
+2023-08-01 08:38:41,686 - 2 Firmen modus an
+2023-08-01 08:38:41,860 - 2 Firmen modus aus
+2023-08-01 08:38:42,030 - 2 Firmen modus an
+2023-08-01 08:38:42,201 - 2 Firmen modus aus
+2023-08-01 08:38:42,379 - 2 Firmen modus an
+2023-08-01 08:38:42,566 - 2 Firmen modus aus
+2023-08-01 08:38:42,740 - 2 Firmen modus an
+2023-08-01 08:38:42,924 - 2 Firmen modus aus
+2023-08-01 08:38:43,095 - 2 Firmen modus an
+2023-08-01 08:38:43,272 - 2 Firmen modus aus
+2023-08-01 08:38:43,448 - 2 Firmen modus an
+2023-08-01 08:38:43,612 - 2 Firmen modus aus
+2023-08-01 08:38:43,781 - 2 Firmen modus an
+2023-08-01 08:38:43,971 - 2 Firmen modus aus
+2023-08-02 08:44:40,333 - Programm wurde gestartet
+2023-08-02 08:44:44,131 - Name gepsichert
+2023-08-02 08:44:45,954 - Name gepsichert
+2023-08-02 08:44:46,733 - Name gepsichert
+2023-08-02 08:44:48,845 - Firma gepsichert
+2023-08-02 09:02:35,438 - Programm wurde gestartet
+2023-08-02 09:02:40,355 - Name gepsichert
+2023-08-02 09:02:42,202 - Firma gepsichert
+2023-08-02 09:02:44,279 - Name gepsichert
+2023-08-02 09:02:49,798 - Bildschirmschoner erstellt
+2023-08-02 09:02:49,806 - Gültig ab gespeichert.
+2023-08-02 09:02:49,817 - Gültig bis gespeichert.
+2023-08-02 09:03:16,542 - 2 Firmen modus an
+2023-08-02 09:03:19,050 - Name gepsichert
+2023-08-02 09:03:22,473 - Name gepsichert
+2023-08-02 09:03:24,233 - Error: Keine Firma eingefügt
+2023-08-02 09:03:26,402 - Firma gepsichert
+2023-08-02 09:03:27,483 - 2 Firmen modus aus
+2023-08-02 09:03:37,673 - 2 Firmen modus an
+2023-08-02 09:03:39,712 - 2 Firmen modus aus
+2023-08-02 13:19:19,095 - Programm wurde gestartet
+2023-08-02 13:19:26,405 - Name gepsichert
+2023-08-02 13:19:29,382 - Firma gepsichert
+2023-08-02 13:19:30,736 - Bildschirmschoner erstellt
+2023-08-02 13:19:30,742 - Gültig ab gespeichert.
+2023-08-02 13:19:30,750 - Gültig bis gespeichert.
+2023-08-02 13:19:57,784 - 2 Firmen modus an
+2023-08-02 13:19:58,657 - Name gepsichert
+2023-08-02 13:19:58,930 - Firma gepsichert
+2023-08-02 13:20:03,934 - Name gepsichert
+2023-08-02 13:20:06,415 - Name gepsichert
+2023-08-02 13:20:08,917 - Bildschirmschoner erstellt
+2023-08-02 13:20:08,922 - Gültig ab gespeichert.
+2023-08-02 13:20:08,929 - Gültig bis gespeichert.
+2023-08-03 07:38:26,162 - Programm wurde gestartet
+2023-08-03 07:38:32,340 - Name gepsichert
+2023-08-03 07:38:33,915 - Firma gepsichert
+2023-08-03 07:38:47,547 - Bildschirmschoner erstellt
+2023-08-03 07:38:47,554 - Gültig ab gespeichert.
+2023-08-03 07:38:47,561 - Gültig bis gespeichert.
+2023-08-03 08:38:44,466 - Programm wurde gestartet
+2023-08-03 09:21:14,114 - Programm wurde gestartet
+2023-08-03 09:26:34,150 - Programm wurde gestartet
+2023-08-03 09:35:14,291 - Programm wurde gestartet
+2023-08-03 09:35:50,763 - Name gepsichert
+2023-08-03 09:36:10,290 - Firma gepsichert
+2023-08-03 09:36:18,747 - Name gepsichert
+2023-08-03 09:36:23,138 - Name gepsichert
+2023-08-03 09:36:31,353 - Error: Keine Datum vorhanden
+2023-08-03 09:36:50,626 - 2 Firmen modus an
+2023-08-03 09:36:59,284 - 2 Firmen modus aus
+2023-08-03 09:36:59,472 - 2 Firmen modus an
+2023-08-03 09:36:59,617 - 2 Firmen modus aus
+2023-08-03 09:36:59,770 - 2 Firmen modus an
+2023-08-03 09:36:59,938 - 2 Firmen modus aus
+2023-08-03 09:37:00,077 - 2 Firmen modus an
+2023-08-03 09:37:00,248 - 2 Firmen modus aus
+2023-08-03 09:38:09,209 - Bildschirmschoner erstellt
+2023-08-03 09:38:09,216 - Gültig ab gespeichert.
+2023-08-03 09:38:09,224 - Gültig bis gespeichert.
+2023-08-03 09:40:43,949 - Alle Firmen gelöscht
+2023-08-03 09:40:45,649 - Alle Namen gelöscht
+2023-08-03 09:41:55,460 - Bildschirmschoner erstellt
+2023-08-03 09:41:55,470 - Gültig ab gespeichert.
+2023-08-03 09:41:55,481 - Gültig bis gespeichert.
+2023-08-03 09:42:00,247 - Name gepsichert
+2023-08-03 09:42:01,894 - Firma gepsichert
+2023-08-03 09:42:16,784 - Name gepsichert
+2023-08-03 09:42:27,017 - Name gepsichert
+2023-08-03 09:42:39,718 - Bildschirmschoner erstellt
+2023-08-03 09:42:39,726 - Gültig ab gespeichert.
+2023-08-03 09:42:39,738 - Gültig bis gespeichert.
+2023-08-03 10:08:04,267 - Programm wurde gestartet
+2023-08-03 10:08:43,421 - Firma gepsichert
+2023-08-03 10:08:50,453 - Name gepsichert
+2023-08-03 10:09:02,678 - Name gepsichert
+2023-08-03 10:09:12,485 - Name gepsichert
+2023-08-03 10:09:17,840 - Bildschirmschoner erstellt
+2023-08-03 10:09:17,845 - Gültig ab gespeichert.
+2023-08-03 10:09:17,852 - Gültig bis gespeichert.
+2023-08-04 10:09:00,402 - Programm wurde gestartet
+2023-08-04 10:09:23,635 - Bildschirmschoner erstellt
+2023-08-04 10:09:23,642 - Gültig ab gespeichert.
+2023-08-04 10:09:23,653 - Gültig bis gespeichert.
+2023-08-04 10:09:40,497 - Bildschirmschoner erstellt
+2023-08-04 10:09:40,511 - Gültig ab gespeichert.
+2023-08-04 10:09:40,523 - Gültig bis gespeichert.
+2023-08-04 12:33:29,318 - Programm wurde gestartet
+2023-08-04 12:33:34,267 - Bildschirmschoner erstellt
+2023-08-04 12:33:34,273 - Gültig ab gespeichert.
+2023-08-04 12:33:34,281 - Gültig bis gespeichert.
+2023-08-04 12:33:59,868 - Alles Zurückgesetzt
+2023-08-04 12:33:59,873 - Gültig ab gelöscht.
+2023-08-04 12:33:59,878 - Gültig bis gelöscht.
+2023-08-04 12:34:47,996 - Alles Zurückgesetzt
+2023-08-04 12:34:48,003 - Gültig ab gelöscht.
+2023-08-04 12:34:48,008 - Gültig bis gelöscht.
+2023-08-04 12:35:48,075 - Alles Zurückgesetzt
+2023-08-04 12:35:48,080 - Gültig ab gelöscht.
+2023-08-04 12:35:48,085 - Gültig bis gelöscht.
+2023-08-04 12:36:05,947 - Programm wurde gestartet
+2023-08-04 12:36:14,343 - Programm wurde gestartet
+2023-08-04 12:36:15,472 - Alles Zurückgesetzt
+2023-08-04 12:36:15,482 - Gültig ab gelöscht.
+2023-08-04 12:36:15,493 - Gültig bis gelöscht.
+2023-08-04 12:37:06,858 - Programm wurde gestartet
+2023-08-04 12:37:20,955 - Name gepsichert
+2023-08-04 12:37:21,257 - Firma gepsichert
+2023-08-04 12:37:23,083 - Bildschirmschoner erstellt
+2023-08-04 12:37:23,092 - Gültig ab gespeichert.
+2023-08-04 12:37:23,101 - Gültig bis gespeichert.
+2023-08-04 12:39:31,989 - Programm wurde gestartet
+2023-08-04 12:39:35,100 - Alles Zurückgesetzt
+2023-08-04 12:39:35,107 - Gültig ab gelöscht.
+2023-08-04 12:39:35,113 - Gültig bis gelöscht.
+2023-08-04 12:42:43,423 - Programm wurde gestartet
+2023-08-04 12:42:50,437 - Name gepsichert
+2023-08-04 12:42:51,096 - Firma gepsichert
+2023-08-04 12:42:53,639 - Bildschirmschoner erstellt
+2023-08-04 12:42:53,645 - Gültig ab gespeichert.
+2023-08-04 12:42:53,655 - Gültig bis gespeichert.
+2023-08-04 12:42:56,747 - Bildschirmschoner erstellt
+2023-08-04 12:42:56,749 - Gültig ab gespeichert.
+2023-08-04 12:42:56,763 - Gültig bis gespeichert.
+2023-08-04 12:50:55,257 - Programm wurde gestartet
+2023-08-04 12:51:07,464 - Bildschirmschoner erstellt
+2023-08-04 12:51:07,471 - Gültig ab gespeichert.
+2023-08-04 12:51:07,485 - Gültig bis gespeichert.
+2023-08-04 13:28:58,055 - Programm wurde gestartet
+2023-08-04 13:29:00,664 - Alles Zurückgesetzt
+2023-08-04 13:29:00,672 - Gültig ab gelöscht.
+2023-08-04 13:29:00,679 - Gültig bis gelöscht.
+2023-08-07 10:03:31,509 - Programm wurde gestartet
+2023-08-07 10:03:53,394 - Firma gepsichert
+2023-08-07 10:04:05,327 - Name gepsichert
+2023-08-07 10:04:18,421 - Name gepsichert
+2023-08-07 10:04:34,055 - Firma gepsichert
+2023-08-07 10:04:46,356 - Name gepsichert
+2023-08-07 10:04:56,036 - Name gepsichert
+2023-08-07 10:05:07,509 - Name gepsichert
+2023-08-07 10:05:18,573 - Name gepsichert
+2023-08-07 10:05:38,407 - Firma gepsichert
+2023-08-07 10:05:49,177 - Name gepsichert
+2023-08-07 10:05:59,931 - letzer Name gelöscht
+2023-08-07 10:06:35,740 - Alle Firmen gelöscht
+2023-08-07 10:06:37,631 - Alle Namen gelöscht
+2023-08-07 10:06:41,525 - Alles Zurückgesetzt
+2023-08-07 10:06:41,552 - Gültig ab gelöscht.
+2023-08-07 10:06:41,559 - Gültig bis gelöscht.
+2023-08-07 10:06:42,124 - Alles Zurückgesetzt
+2023-08-07 10:06:42,136 - Gültig ab gelöscht.
+2023-08-07 10:06:42,140 - Gültig bis gelöscht.
+2023-08-07 10:06:42,413 - Alles Zurückgesetzt
+2023-08-07 10:06:42,428 - Gültig ab gelöscht.
+2023-08-07 10:06:42,444 - Gültig bis gelöscht.
+2023-08-07 10:06:42,587 - Alles Zurückgesetzt
+2023-08-07 10:06:42,599 - Gültig ab gelöscht.
+2023-08-07 10:06:42,608 - Gültig bis gelöscht.
+2023-08-07 10:06:42,748 - Alles Zurückgesetzt
+2023-08-07 10:06:42,764 - Gültig ab gelöscht.
+2023-08-07 10:06:42,779 - Gültig bis gelöscht.
+2023-08-07 10:06:42,909 - Alles Zurückgesetzt
+2023-08-07 10:06:42,925 - Gültig ab gelöscht.
+2023-08-07 10:06:42,932 - Gültig bis gelöscht.
+2023-08-07 10:06:43,081 - Alles Zurückgesetzt
+2023-08-07 10:06:43,097 - Gültig ab gelöscht.
+2023-08-07 10:06:43,109 - Gültig bis gelöscht.
+2023-08-07 10:06:43,225 - Alles Zurückgesetzt
+2023-08-07 10:06:43,242 - Gültig ab gelöscht.
+2023-08-07 10:06:43,252 - Gültig bis gelöscht.
+2023-08-07 10:06:45,947 - Programm wurde gestartet
+2023-08-07 10:06:56,153 - Firma gepsichert
+2023-08-07 10:07:06,860 - Name gepsichert
+2023-08-07 10:07:16,613 - Name gepsichert
+2023-08-07 10:07:28,080 - Firma gepsichert
+2023-08-07 10:07:37,901 - Name gepsichert
+2023-08-07 10:07:49,614 - Name gepsichert
+2023-08-07 10:08:01,246 - Name gepsichert
+2023-08-07 10:08:10,227 - Name gepsichert
+2023-08-07 10:08:20,327 - Name gepsichert
+2023-08-07 10:08:33,011 - Firma gepsichert
+2023-08-07 10:08:42,708 - Name gepsichert
+2023-08-07 10:09:06,412 - Bildschirmschoner erstellt
+2023-08-07 10:09:06,419 - Gültig ab gespeichert.
+2023-08-07 10:09:06,428 - Gültig bis gespeichert.
+2023-08-07 10:09:11,618 - Bildschirmschoner erstellt
+2023-08-07 10:09:11,634 - Gültig ab gespeichert.
+2023-08-07 10:09:11,634 - Gültig bis gespeichert.
+2023-08-07 11:06:21,616 - Programm wurde gestartet
+2023-08-07 11:11:23,012 - Programm wurde gestartet
+2023-08-07 11:11:25,659 - 2 Firmen modus an
+2023-08-07 11:11:26,030 - 2 Firmen modus aus
+2023-08-07 11:11:26,732 - 2 Firmen modus an
+2023-08-07 11:11:27,197 - 2 Firmen modus aus
+2023-08-07 11:11:47,705 - 2 Firmen modus an
+2023-08-07 11:11:47,948 - 2 Firmen modus aus
+2023-08-07 11:11:48,102 - 2 Firmen modus an
+2023-08-07 11:11:48,345 - 2 Firmen modus aus
+2023-08-07 11:11:48,476 - 2 Firmen modus an
+2023-08-07 11:13:02,643 - Programm wurde gestartet
+2023-08-07 11:13:22,287 - Programm wurde gestartet
+2023-08-07 11:13:23,862 - 2 Firmen modus an
+2023-08-07 11:13:24,298 - 2 Firmen modus aus
+2023-08-07 11:13:26,464 - 2 Firmen modus an
+2023-08-07 11:13:28,226 - 2 Firmen modus an
+2023-08-07 11:13:28,889 - 2 Firmen modus aus
+2023-08-07 11:13:29,746 - 2 Firmen modus aus
+2023-08-07 11:13:30,735 - 2 Firmen modus an
+2023-08-07 11:13:31,136 - 2 Firmen modus aus
+2023-08-07 11:13:31,474 - 2 Firmen modus an
+2023-08-07 11:13:31,899 - 2 Firmen modus aus
+2023-08-07 11:13:32,928 - 2 Firmen modus an
+2023-08-07 11:13:33,881 - 2 Firmen modus aus
+2023-08-07 11:13:35,017 - 2 Firmen modus an
+2023-08-07 11:13:37,225 - 2 Firmen modus aus
+2023-08-07 11:13:37,923 - 2 Firmen modus an
+2023-08-07 11:13:38,694 - 2 Firmen modus aus
+2023-08-07 11:13:40,136 - 2 Firmen modus an
+2023-08-07 11:13:40,832 - 2 Firmen modus aus
+2023-08-07 11:15:26,524 - Programm wurde gestartet
+2023-08-07 11:15:28,326 - 2 Firmen modus an
+2023-08-07 11:15:29,127 - 2 Firmen modus aus
+2023-08-07 11:15:30,065 - 2 Firmen modus an
+2023-08-07 11:16:54,600 - Programm wurde gestartet
+2023-08-07 11:16:58,829 - 2 Firmen modus an
+2023-08-07 11:16:59,486 - 2 Firmen modus aus
+2023-08-07 11:17:00,016 - 2 Firmen modus an
+2023-08-07 11:17:02,830 - Programm wurde gestartet
+2023-08-07 11:17:51,638 - Programm wurde gestartet
+2023-08-07 11:17:53,572 - 2 Firmen modus an
+2023-08-07 11:17:55,295 - 2 Firmen modus an
+2023-08-07 11:17:55,964 - 2 Firmen modus aus
+2023-08-07 11:17:56,503 - 2 Firmen modus aus
+2023-08-07 11:17:59,824 - 2 Firmen modus an
+2023-08-07 11:18:01,220 - 2 Firmen modus aus
+2023-08-07 11:18:02,153 - 2 Firmen modus an
+2023-08-07 11:18:03,369 - 2 Firmen modus aus
+2023-08-07 11:18:04,941 - 2 Firmen modus an
+2023-08-07 11:18:05,995 - 2 Firmen modus aus
+2023-08-07 11:18:06,843 - 2 Firmen modus an
+2023-08-07 11:18:07,566 - 2 Firmen modus aus
+2023-08-07 11:18:07,990 - 2 Firmen modus an
+2023-08-07 11:18:08,533 - 2 Firmen modus an
+2023-08-07 11:18:09,521 - 2 Firmen modus aus
+2023-08-07 11:18:10,692 - 2 Firmen modus aus
+2023-08-07 11:18:53,863 - Programm wurde gestartet
+2023-08-07 11:18:55,043 - 2 Firmen modus an
+2023-08-07 11:18:55,398 - 2 Firmen modus aus
+2023-08-07 11:18:55,831 - 2 Firmen modus an
+2023-08-07 11:18:56,480 - 2 Firmen modus aus
+2023-08-07 11:18:57,233 - 2 Firmen modus an
+2023-08-07 11:18:57,565 - 2 Firmen modus aus
+2023-08-07 11:18:57,934 - 2 Firmen modus an
+2023-08-07 11:18:58,255 - 2 Firmen modus an
+2023-08-07 11:19:00,979 - 2 Firmen modus aus
+2023-08-07 11:19:01,221 - 2 Firmen modus aus
+2023-08-07 11:20:55,409 - Programm wurde gestartet
+2023-08-07 11:20:57,528 - 2 Firmen modus an
+2023-08-07 11:20:57,535 - 3 Firmen modus aus
+2023-08-07 11:20:58,635 - 3 Firmen modus an
+2023-08-07 11:20:58,642 - 2 Firmen modus aus
+2023-08-07 11:21:00,426 - 2 Firmen modus an
+2023-08-07 11:21:00,431 - 3 Firmen modus aus
+2023-08-07 11:21:02,529 - 2 Firmen modus aus
+2023-08-07 11:26:10,385 - Programm wurde gestartet
+2023-08-07 11:26:12,279 - 3 Firmen modus an
+2023-08-07 11:26:12,291 - 2 Firmen modus aus
+2023-08-07 11:26:17,180 - Name gepsichert
+2023-08-07 11:27:12,728 - Programm wurde gestartet
+2023-08-07 11:27:15,087 - 3 Firmen modus an
+2023-08-07 11:27:15,097 - 2 Firmen modus aus
+2023-08-07 11:27:17,744 - Name gepsichert
+2023-08-07 11:27:19,974 - 2 Firmen modus an
+2023-08-07 11:27:19,981 - 3 Firmen modus aus
+2023-08-07 11:27:28,485 - 3 Firmen modus an
+2023-08-07 11:27:28,491 - 2 Firmen modus aus
+2023-08-07 11:27:32,097 - Error: Keine Namen gefunden
+2023-08-07 11:27:32,744 - Error: Keine Namen gefunden
+2023-08-07 11:27:33,040 - Error: Keine Namen gefunden
+2023-08-07 11:27:33,241 - Error: Keine Namen gefunden
+2023-08-07 11:27:33,440 - Error: Keine Namen gefunden
+2023-08-07 11:27:33,599 - Error: Keine Namen gefunden
+2023-08-07 11:27:33,771 - Error: Keine Namen gefunden
+2023-08-07 11:27:33,934 - Error: Keine Namen gefunden
+2023-08-07 11:27:34,109 - Error: Keine Namen gefunden
+2023-08-07 11:27:34,282 - Error: Keine Namen gefunden
+2023-08-07 11:27:34,479 - Error: Keine Namen gefunden
+2023-08-07 11:27:34,670 - Error: Keine Namen gefunden
+2023-08-07 11:27:34,841 - Error: Keine Namen gefunden
+2023-08-07 11:27:35,028 - Error: Keine Namen gefunden
+2023-08-07 11:27:35,180 - Error: Keine Namen gefunden
+2023-08-07 11:27:35,355 - Error: Keine Namen gefunden
+2023-08-07 11:27:35,511 - Error: Keine Namen gefunden
+2023-08-07 11:27:35,720 - Error: Keine Namen gefunden
+2023-08-07 11:33:41,496 - Programm wurde gestartet
+2023-08-07 11:33:46,060 - Name gepsichert
+2023-08-07 11:33:51,498 - Name gepsichert
+2023-08-07 11:37:08,468 - Programm wurde gestartet
+2023-08-07 11:37:09,618 - 1 Firmen modus aus
+2023-08-07 11:37:09,630 - 2 Firmen modus an
+2023-08-07 11:37:09,640 - 3 Firmen modus aus
+2023-08-07 11:37:09,862 - 2 Firmen modus aus
+2023-08-07 11:37:09,872 - 1 Firmen modus an
+2023-08-07 11:37:10,751 - 1 Firmen modus aus
+2023-08-07 11:37:10,758 - 2 Firmen modus aus
+2023-08-07 11:37:10,767 - 3 Firmen modus an
+2023-08-07 11:37:11,015 - 1 Firmen modus aus
+2023-08-07 11:37:11,023 - 2 Firmen modus an
+2023-08-07 11:37:11,030 - 3 Firmen modus aus
+2023-08-07 11:37:11,222 - 2 Firmen modus aus
+2023-08-07 11:37:11,229 - 1 Firmen modus an
+2023-08-07 11:37:11,453 - 1 Firmen modus aus
+2023-08-07 11:37:11,461 - 2 Firmen modus an
+2023-08-07 11:37:11,469 - 3 Firmen modus aus
+2023-08-07 11:37:11,821 - 2 Firmen modus aus
+2023-08-07 11:37:11,830 - 1 Firmen modus an
+2023-08-07 11:37:12,329 - 1 Firmen modus aus
+2023-08-07 11:37:12,335 - 2 Firmen modus an
+2023-08-07 11:37:12,342 - 3 Firmen modus aus
+2023-08-07 11:37:13,067 - 2 Firmen modus aus
+2023-08-07 11:37:13,072 - 1 Firmen modus an
+2023-08-07 11:37:16,534 - Name gepsichert
+2023-08-07 11:37:17,658 - 1 Firmen modus aus
+2023-08-07 11:37:17,664 - 2 Firmen modus an
+2023-08-07 11:37:17,671 - 3 Firmen modus aus
+2023-08-07 11:37:19,137 - Name gepsichert
+2023-08-07 11:37:20,618 - 2 Firmen modus aus
+2023-08-07 11:37:20,624 - 1 Firmen modus an
+2023-08-07 11:37:20,760 - 1 Firmen modus aus
+2023-08-07 11:37:20,765 - 2 Firmen modus an
+2023-08-07 11:37:20,771 - 3 Firmen modus aus
+2023-08-07 11:37:21,558 - 1 Firmen modus aus
+2023-08-07 11:37:21,564 - 2 Firmen modus aus
+2023-08-07 11:37:21,569 - 3 Firmen modus an
+2023-08-07 11:37:22,323 - Error: Keine Namen eingefügt
+2023-08-07 11:37:23,479 - Name gepsichert
+2023-08-07 11:37:25,257 - Alle Firmen gelöscht
+2023-08-07 11:37:26,130 - Alle Firmen gelöscht
+2023-08-07 11:37:26,372 - Alle Firmen gelöscht
+2023-08-07 11:37:26,583 - Alle Firmen gelöscht
+2023-08-07 11:37:27,322 - 1 Firmen modus aus
+2023-08-07 11:37:27,328 - 2 Firmen modus an
+2023-08-07 11:37:27,334 - 3 Firmen modus aus
+2023-08-07 11:37:28,148 - Alle Firmen gelöscht
+2023-08-07 11:37:28,557 - Alle Firmen gelöscht
+2023-08-07 11:37:28,730 - Alle Firmen gelöscht
+2023-08-07 11:37:29,183 - 1 Firmen modus aus
+2023-08-07 11:37:29,188 - 2 Firmen modus aus
+2023-08-07 11:37:29,194 - 3 Firmen modus an
+2023-08-07 11:37:29,671 - Alle Firmen gelöscht
+2023-08-07 11:37:30,148 - Alle Firmen gelöscht
+2023-08-07 11:37:30,387 - Alle Firmen gelöscht
+2023-08-07 11:37:30,885 - 3 Firmen modus aus
+2023-08-07 11:37:30,891 - 1 Firmen modus an
+2023-08-07 11:37:32,141 - Alle Firmen gelöscht
+2023-08-07 11:37:32,267 - Alle Firmen gelöscht
+2023-08-07 11:37:32,435 - Alle Firmen gelöscht
+2023-08-07 11:37:32,596 - Alle Firmen gelöscht
+2023-08-07 11:37:32,778 - Alle Firmen gelöscht
+2023-08-07 11:38:15,803 - Programm wurde gestartet
+2023-08-07 11:38:22,312 - Error: Keine Firma eingefügt
+2023-08-07 11:38:25,573 - Firma gepsichert
+2023-08-07 11:38:26,507 - Name gepsichert
+2023-08-07 11:38:27,408 - Alle Firmen gelöscht
+2023-08-07 11:38:27,767 - Alle Namen gelöscht
+2023-08-07 11:38:31,077 - Name gepsichert
+2023-08-07 11:38:31,701 - Firma gepsichert
+2023-08-07 11:38:32,846 - 1 Firmen modus aus
+2023-08-07 11:38:32,852 - 2 Firmen modus an
+2023-08-07 11:38:32,857 - 3 Firmen modus aus
+2023-08-07 11:38:34,665 - Error: Keine Namen gefunden
+2023-08-07 11:38:35,371 - Alle Firmen gelöscht
+2023-08-07 11:38:35,990 - Error: Kein Namen gefunden
+2023-08-07 11:38:44,698 - Name gepsichert
+2023-08-07 11:38:45,010 - Firma gepsichert
+2023-08-07 11:38:46,597 - Alle Namen gelöscht
+2023-08-07 11:38:47,171 - Alle Firmen gelöscht
+2023-08-07 11:38:49,153 - 1 Firmen modus aus
+2023-08-07 11:38:49,159 - 2 Firmen modus aus
+2023-08-07 11:38:49,164 - 3 Firmen modus an
+2023-08-07 11:38:52,791 - Name gepsichert
+2023-08-07 11:38:53,189 - Firma gepsichert
+2023-08-07 11:38:54,571 - Alle Firmen gelöscht
+2023-08-07 11:38:54,904 - Alle Namen gelöscht
+2023-08-07 11:38:57,511 - 1 Firmen modus aus
+2023-08-07 11:38:57,517 - 2 Firmen modus an
+2023-08-07 11:38:57,522 - 3 Firmen modus aus
+2023-08-07 11:38:58,061 - 1 Firmen modus aus
+2023-08-07 11:38:58,066 - 2 Firmen modus aus
+2023-08-07 11:38:58,071 - 3 Firmen modus an
+2023-08-07 11:38:58,325 - 1 Firmen modus aus
+2023-08-07 11:38:58,331 - 2 Firmen modus an
+2023-08-07 11:38:58,336 - 3 Firmen modus aus
+2023-08-07 11:38:59,215 - 1 Firmen modus aus
+2023-08-07 11:38:59,220 - 2 Firmen modus aus
+2023-08-07 11:38:59,226 - 3 Firmen modus an
+2023-08-07 11:38:59,558 - 1 Firmen modus aus
+2023-08-07 11:38:59,564 - 2 Firmen modus an
+2023-08-07 11:38:59,570 - 3 Firmen modus aus
+2023-08-07 11:38:59,781 - 1 Firmen modus aus
+2023-08-07 11:38:59,786 - 2 Firmen modus aus
+2023-08-07 11:38:59,792 - 3 Firmen modus an
+2023-08-07 11:39:00,354 - 1 Firmen modus aus
+2023-08-07 11:39:00,360 - 2 Firmen modus an
+2023-08-07 11:39:00,365 - 3 Firmen modus aus
+2023-08-07 11:39:00,533 - 2 Firmen modus aus
+2023-08-07 11:39:00,539 - 1 Firmen modus an
+2023-08-07 11:39:00,699 - 1 Firmen modus aus
+2023-08-07 11:39:00,704 - 2 Firmen modus an
+2023-08-07 11:39:00,710 - 3 Firmen modus aus
+2023-08-07 11:39:01,051 - 2 Firmen modus aus
+2023-08-07 11:39:01,056 - 1 Firmen modus an
+2023-08-07 11:39:01,229 - 1 Firmen modus aus
+2023-08-07 11:39:01,234 - 2 Firmen modus an
+2023-08-07 11:39:01,240 - 3 Firmen modus aus
+2023-08-07 11:39:01,369 - 2 Firmen modus aus
+2023-08-07 11:39:01,374 - 1 Firmen modus an
+2023-08-07 11:39:01,501 - 1 Firmen modus aus
+2023-08-07 11:39:01,507 - 2 Firmen modus an
+2023-08-07 11:39:01,513 - 3 Firmen modus aus
+2023-08-07 11:39:01,865 - 1 Firmen modus aus
+2023-08-07 11:39:01,871 - 2 Firmen modus aus
+2023-08-07 11:39:01,877 - 3 Firmen modus an
+2023-08-07 11:39:02,055 - 3 Firmen modus aus
+2023-08-07 11:39:02,060 - 1 Firmen modus an
+2023-08-07 11:39:02,203 - 1 Firmen modus aus
+2023-08-07 11:39:02,209 - 2 Firmen modus aus
+2023-08-07 11:39:02,214 - 3 Firmen modus an
+2023-08-07 11:39:02,344 - 3 Firmen modus aus
+2023-08-07 11:39:02,350 - 1 Firmen modus an
+2023-08-07 11:39:02,748 - 1 Firmen modus aus
+2023-08-07 11:39:02,753 - 2 Firmen modus aus
+2023-08-07 11:39:02,758 - 3 Firmen modus an
+2023-08-07 11:39:05,716 - Name gepsichert
+2023-08-07 11:39:06,092 - Firma gepsichert
+2023-08-07 11:39:08,433 - 1 Firmen modus aus
+2023-08-07 11:39:08,439 - 2 Firmen modus an
+2023-08-07 11:39:08,444 - 3 Firmen modus aus
+2023-08-07 11:39:08,763 - 2 Firmen modus aus
+2023-08-07 11:39:08,768 - 1 Firmen modus an
+2023-08-07 11:39:09,883 - 1 Firmen modus aus
+2023-08-07 11:39:09,888 - 2 Firmen modus aus
+2023-08-07 11:39:09,894 - 3 Firmen modus an
+2023-08-07 11:39:11,951 - Alle Namen gelöscht
+2023-08-07 11:39:12,279 - Alle Firmen gelöscht
+2023-08-07 11:42:26,137 - Programm wurde gestartet
+2023-08-07 11:42:29,712 - Name gepsichert
+2023-08-07 11:42:32,130 - 1 Firmen modus aus
+2023-08-07 11:42:32,135 - 2 Firmen modus an
+2023-08-07 11:42:32,141 - 3 Firmen modus aus
+2023-08-07 11:42:34,429 - Name gepsichert
+2023-08-07 11:42:37,770 - Name gepsichert
+2023-08-07 11:42:39,449 - 2 Firmen modus aus
+2023-08-07 11:42:39,455 - 1 Firmen modus an
+2023-08-07 11:42:42,829 - Name gepsichert
+2023-08-07 11:42:43,918 - 1 Firmen modus aus
+2023-08-07 11:42:43,923 - 2 Firmen modus aus
+2023-08-07 11:42:43,929 - 3 Firmen modus an
+2023-08-07 11:42:45,689 - Name gepsichert
+2023-08-07 11:42:46,645 - Name gepsichert
+2023-08-07 11:42:50,586 - Firma gepsichert
+2023-08-07 11:42:51,591 - 1 Firmen modus aus
+2023-08-07 11:42:51,597 - 2 Firmen modus an
+2023-08-07 11:42:51,602 - 3 Firmen modus aus
+2023-08-07 11:42:53,470 - Firma gepsichert
+2023-08-07 11:42:55,518 - 2 Firmen modus aus
+2023-08-07 11:42:55,524 - 1 Firmen modus an
+2023-08-07 11:42:58,531 - 1 Firmen modus aus
+2023-08-07 11:42:58,536 - 2 Firmen modus aus
+2023-08-07 11:42:58,542 - 3 Firmen modus an
+2023-08-07 11:42:59,362 - 3 Firmen modus aus
+2023-08-07 11:42:59,367 - 1 Firmen modus an
+2023-08-07 11:43:02,162 - Firma gepsichert
+2023-08-07 11:43:04,873 - Bildschirmschoner erstellt
+2023-08-07 11:43:04,881 - Gültig ab gespeichert.
+2023-08-07 11:43:04,891 - Gültig bis gespeichert.
+2023-08-07 11:44:43,923 - Programm wurde gestartet
+2023-08-07 11:44:45,969 - Name gepsichert
+2023-08-07 11:44:47,811 - Firma gepsichert
+2023-08-07 11:44:50,155 - Name gepsichert
+2023-08-07 11:44:51,163 - 1 Firmen modus aus
+2023-08-07 11:44:51,169 - 2 Firmen modus an
+2023-08-07 11:44:51,175 - 3 Firmen modus aus
+2023-08-07 11:44:53,065 - Name gepsichert
+2023-08-07 11:44:55,037 - Firma gepsichert
+2023-08-07 11:44:56,950 - Name gepsichert
+2023-08-07 11:44:58,915 - 1 Firmen modus aus
+2023-08-07 11:44:58,920 - 2 Firmen modus aus
+2023-08-07 11:44:58,925 - 3 Firmen modus an
+2023-08-07 11:45:01,647 - Name gepsichert
+2023-08-07 11:45:03,368 - Firma gepsichert
+2023-08-07 11:45:10,115 - Name gepsichert
+2023-08-07 11:46:21,349 - Bildschirmschoner erstellt
+2023-08-07 11:46:21,363 - Gültig ab gespeichert.
+2023-08-07 11:46:21,392 - Gültig bis gespeichert.
+2023-08-07 11:53:30,059 - Bildschirmschoner erstellt
+2023-08-07 11:53:30,066 - Gültig ab gespeichert.
+2023-08-07 11:53:30,076 - Gültig bis gespeichert.
+2023-08-07 12:45:52,193 - Programm wurde gestartet
+2023-08-07 12:46:05,933 - 1 Firmen modus aus
+2023-08-07 12:46:05,944 - 2 Firmen modus an
+2023-08-07 12:46:05,949 - 3 Firmen modus aus
+2023-08-07 12:46:06,506 - 1 Firmen modus aus
+2023-08-07 12:46:06,511 - 2 Firmen modus aus
+2023-08-07 12:46:06,511 - 3 Firmen modus an
+2023-08-07 12:46:07,382 - 1 Firmen modus aus
+2023-08-07 12:46:07,397 - 2 Firmen modus an
+2023-08-07 12:46:07,397 - 3 Firmen modus aus
+2023-08-07 12:46:09,359 - 1 Firmen modus aus
+2023-08-07 12:46:09,359 - 2 Firmen modus aus
+2023-08-07 12:46:09,375 - 3 Firmen modus an
+2023-08-07 12:46:10,380 - 1 Firmen modus aus
+2023-08-07 12:46:10,396 - 2 Firmen modus an
+2023-08-07 12:46:10,396 - 3 Firmen modus aus
+2023-08-07 12:46:12,067 - 2 Firmen modus aus
+2023-08-07 12:46:12,077 - 1 Firmen modus an
+2023-08-07 12:46:19,871 - 1 Firmen modus aus
+2023-08-07 12:46:19,871 - 2 Firmen modus aus
+2023-08-07 12:46:19,887 - 3 Firmen modus an
+2023-08-07 12:46:23,531 - 3 Firmen modus aus
+2023-08-07 12:46:23,546 - 1 Firmen modus an
+2023-08-07 12:46:25,966 - 1 Firmen modus aus
+2023-08-07 12:46:25,981 - 2 Firmen modus an
+2023-08-07 12:46:25,985 - 3 Firmen modus aus
+2023-08-07 12:46:28,366 - 2 Firmen modus aus
+2023-08-07 12:46:28,381 - 1 Firmen modus an
+2023-08-07 12:46:29,775 - 1 Firmen modus aus
+2023-08-07 12:46:29,790 - 2 Firmen modus an
+2023-08-07 12:46:29,796 - 3 Firmen modus aus
+2023-08-07 12:46:32,664 - 1 Firmen modus aus
+2023-08-07 12:46:32,679 - 2 Firmen modus aus
+2023-08-07 12:46:32,679 - 3 Firmen modus an
+2023-08-07 12:46:38,638 - 3 Firmen modus aus
+2023-08-07 12:46:38,651 - 1 Firmen modus an
+2023-08-07 12:47:55,398 - Firma gepsichert
+2023-08-07 12:48:05,579 - Name gepsichert
+2023-08-07 12:48:14,828 - Name gepsichert
+2023-08-07 12:48:23,785 - 1 Firmen modus aus
+2023-08-07 12:48:23,799 - 2 Firmen modus an
+2023-08-07 12:48:23,799 - 3 Firmen modus aus
+2023-08-07 12:48:32,119 - Firma gepsichert
+2023-08-07 12:48:42,933 - Name gepsichert
+2023-08-07 12:48:54,348 - Name gepsichert
+2023-08-07 12:49:05,047 - Name gepsichert
+2023-08-07 12:49:12,814 - Name gepsichert
+2023-08-07 12:49:23,346 - Name gepsichert
+2023-08-07 12:49:25,553 - 1 Firmen modus aus
+2023-08-07 12:49:25,568 - 2 Firmen modus aus
+2023-08-07 12:49:25,580 - 3 Firmen modus an
+2023-08-07 12:49:34,482 - Firma gepsichert
+2023-08-07 12:49:44,788 - Name gepsichert
+2023-08-07 12:50:05,000 - Bildschirmschoner erstellt
+2023-08-07 12:50:05,013 - Gültig ab gespeichert.
+2023-08-07 12:50:05,017 - Gültig bis gespeichert.
+2023-08-08 07:06:58,490 - Programm wurde gestartet
+2023-08-08 07:07:14,267 - Alles Zurückgesetzt
+2023-08-08 07:07:14,279 - Gültig ab gelöscht.
+2023-08-08 07:07:14,290 - Gültig bis gelöscht.
+2023-08-08 07:08:39,642 - Programm wurde gestartet
+2023-08-08 07:08:46,998 - 1 Firmen modus aus
+2023-08-08 07:08:47,005 - 2 Firmen modus an
+2023-08-08 07:08:47,011 - 3 Firmen modus aus
+2023-08-08 07:09:49,735 - Programm wurde gestartet
+2023-08-08 07:09:57,410 - 1 Firmen modus aus
+2023-08-08 07:09:57,415 - 2 Firmen modus aus
+2023-08-08 07:09:57,421 - 3 Firmen modus an
+2023-08-08 07:11:39,680 - Programm wurde gestartet
+2023-08-14 09:33:57,623 - Programm wurde gestartet
+2023-08-14 09:34:19,244 - Firma gepsichert
+2023-08-14 09:34:33,492 - Name gepsichert
+2023-08-14 09:34:45,523 - Name gepsichert
+2023-08-14 09:34:54,848 - Name gepsichert
+2023-08-14 09:35:13,564 - Bildschirmschoner erstellt
+2023-08-14 09:35:13,578 - Gültig ab gespeichert.
+2023-08-14 09:35:13,596 - Gültig bis gespeichert.
+2023-08-14 09:35:13,625 - Bildschirmschoner erstellt
+2023-08-14 09:35:13,634 - Gültig ab gespeichert.
+2023-08-14 09:35:13,646 - Gültig bis gespeichert.
+2023-08-15 11:03:43,343 - Programm wurde gestartet
+2023-08-15 11:05:20,334 - Programm wurde gestartet
+2023-08-15 11:08:32,045 - Programm wurde gestartet
+2023-08-15 11:13:21,443 - Programm wurde gestartet
+2023-08-15 11:14:00,034 - Programm wurde gestartet
+2023-08-15 11:14:24,779 - Programm wurde gestartet
+2023-08-15 11:14:51,897 - Programm wurde gestartet
+2023-08-15 11:28:18,479 - Programm wurde gestartet
+2023-08-15 11:28:48,466 - Programm wurde gestartet
+2023-08-15 11:31:36,586 - Programm wurde gestartet
+2023-08-15 11:31:52,340 - Programm wurde gestartet
+2023-08-15 11:33:52,116 - Programm wurde gestartet
+2023-08-15 11:35:47,161 - Programm wurde gestartet
+2023-08-15 11:36:06,412 - Programm wurde gestartet
+2023-08-15 11:36:27,570 - Programm wurde gestartet
+2023-08-15 11:40:17,365 - Programm wurde gestartet
+2023-08-15 11:41:12,334 - Programm wurde gestartet
+2023-08-15 12:39:51,486 - Programm wurde gestartet
+2023-08-15 12:39:59,355 - Firma gepsichert
+2023-08-15 12:39:59,683 - Name gepsichert
+2023-08-15 12:40:16,404 - Bildschirmschoner erstellt
+2023-08-15 12:40:16,413 - Gültig ab gespeichert.
+2023-08-15 12:40:21,447 - Gültig bis gespeichert.
+2023-08-15 12:41:09,593 - Bildschirmschoner erstellt
+2023-08-15 12:41:09,599 - Gültig ab gespeichert.
+2023-08-15 12:41:09,618 - Gültig bis gespeichert.
+2023-08-15 12:41:13,007 - Programm wurde gestartet
+2023-08-15 12:41:16,010 - Programm wurde gestartet
+2023-08-15 12:44:03,219 - Programm wurde gestartet
+2023-08-15 12:44:08,338 - Sprache: Englisch
+2023-08-15 12:44:08,725 - Sprache: Deutsch
+2023-08-15 12:44:08,924 - Sprache: Englisch
+2023-08-15 12:44:09,098 - Sprache: Deutsch
+2023-08-15 12:44:09,256 - Sprache: Englisch
+2023-08-15 12:44:09,397 - Sprache: Deutsch
+2023-08-15 12:44:09,570 - Sprache: Englisch
+2023-08-15 12:44:09,746 - Sprache: Deutsch
+2023-08-15 12:44:09,942 - Sprache: Englisch
+2023-08-15 12:44:10,150 - Sprache: Deutsch
+2023-08-15 12:44:10,362 - Sprache: Englisch
+2023-08-15 12:44:10,578 - Sprache: Deutsch
+2023-08-15 12:44:10,782 - Sprache: Englisch
+2023-08-15 12:44:11,153 - Sprache: Deutsch
+2023-08-15 12:44:25,541 - Programm wurde gestartet
+2023-08-15 12:44:42,618 - Programm wurde gestartet
+2023-08-15 12:44:58,668 - Programm wurde gestartet
+2023-08-15 12:45:07,562 - Sprache: Englisch
+2023-08-15 12:45:07,964 - Sprache: Deutsch
+2023-08-15 12:45:08,781 - Sprache: Englisch
+2023-08-15 12:45:31,378 - Programm wurde gestartet
+2023-08-15 12:45:49,319 - Programm wurde gestartet
+2023-08-15 12:47:12,887 - 1 Firmen modus aus
+2023-08-15 12:47:12,892 - 2 Firmen modus an
+2023-08-15 12:47:12,897 - 3 Firmen modus aus
+2023-08-15 12:47:14,208 - 1 Firmen modus aus
+2023-08-15 12:47:14,214 - 2 Firmen modus aus
+2023-08-15 12:47:14,219 - 3 Firmen modus an
+2023-08-15 12:47:14,733 - 1 Firmen modus aus
+2023-08-15 12:47:14,739 - 2 Firmen modus an
+2023-08-15 12:47:14,744 - 3 Firmen modus aus
+2023-08-15 12:47:15,784 - 2 Firmen modus aus
+2023-08-15 12:47:15,788 - 1 Firmen modus an
+2023-08-15 12:47:16,752 - 1 Firmen modus aus
+2023-08-15 12:47:16,757 - 2 Firmen modus aus
+2023-08-15 12:47:16,763 - 3 Firmen modus an
+2023-08-15 12:47:17,086 - 3 Firmen modus aus
+2023-08-15 12:47:17,091 - 1 Firmen modus an
+2023-08-15 12:47:18,153 - 1 Firmen modus aus
+2023-08-15 12:47:18,158 - 2 Firmen modus aus
+2023-08-15 12:47:18,165 - 3 Firmen modus an
+2023-08-15 12:47:19,858 - 3 Firmen modus aus
+2023-08-15 12:47:19,865 - 1 Firmen modus an
+2023-08-15 12:47:20,647 - 1 Firmen modus aus
+2023-08-15 12:47:20,652 - 2 Firmen modus aus
+2023-08-15 12:47:20,658 - 3 Firmen modus an
+2023-08-15 12:47:21,156 - 3 Firmen modus aus
+2023-08-15 12:47:21,161 - 1 Firmen modus an
+2023-08-15 12:56:06,631 - Programm wurde gestartet
+2023-08-21 14:54:07,076 - Programm wurde gestartet
+2023-08-21 14:59:30,406 - Firma gepsichert
+2023-08-21 14:59:47,166 - Name gepsichert
+2023-08-21 14:59:56,870 - Bildschirmschoner erstellt
+2023-08-21 14:59:56,880 - Gültig ab gespeichert.
+2023-08-21 14:59:56,894 - Gültig bis gespeichert.
+2023-08-22 11:41:40,608 - Programm wurde gestartet
+2023-08-22 11:41:57,855 - 1 Firmen modus aus
+2023-08-22 11:41:57,861 - 2 Firmen modus an
+2023-08-22 11:41:57,869 - 3 Firmen modus aus
+2023-08-22 11:41:58,592 - 1 Firmen modus aus
+2023-08-22 11:41:58,597 - 2 Firmen modus aus
+2023-08-22 11:41:58,603 - 3 Firmen modus an
+2023-08-22 11:41:59,036 - 1 Firmen modus aus
+2023-08-22 11:41:59,042 - 2 Firmen modus an
+2023-08-22 11:41:59,047 - 3 Firmen modus aus
+2023-08-22 11:42:03,509 - Sprache: Englisch
+2023-08-25 11:58:42,340 - Programm wurde gestartet
+2023-08-28 08:08:52,663 - Programm wurde gestartet
+2023-08-28 08:11:47,504 - Programm wurde gestartet
+2023-08-28 09:57:00,628 - Programm wurde gestartet
+2023-08-28 10:20:09,219 - Programm wurde gestartet
+2023-08-28 10:45:23,563 - Programm wurde gestartet
+2023-08-28 10:45:54,738 - Firma gepsichert
+2023-08-28 10:46:08,017 - Name gepsichert
+2023-08-28 10:48:35,373 - Name gepsichert
+2023-08-28 10:48:48,701 - Name gepsichert
+2023-08-28 10:49:22,764 - Bildschirmschoner erstellt
+2023-08-28 10:49:22,776 - Gültig ab gespeichert.
+2023-08-28 10:49:22,790 - Gültig bis gespeichert.
+2023-09-12 15:42:08,063 - Programm wurde gestartet
+2023-09-12 15:42:08,141 - Programm wurde gestartet
+2023-09-12 15:42:54,924 - Firma gepsichert
+2023-09-12 15:44:16,479 - Bildschirmschoner erstellt
+2023-09-12 15:44:16,498 - Gültig ab gespeichert.
+2023-09-12 15:44:16,517 - Gültig bis gespeichert.
+2023-09-18 15:43:52,248 - Programm wurde gestartet
+2023-09-18 15:43:52,339 - Programm wurde gestartet
+2023-09-18 15:44:05,833 - Firma gepsichert
+2023-09-18 15:44:16,529 - Name gepsichert
+2023-09-18 15:44:31,529 - Name gepsichert
+2023-09-18 15:44:43,791 - Name gepsichert
+2023-09-18 15:44:48,021 - Bildschirmschoner erstellt
+2023-09-18 15:44:48,034 - Gültig ab gespeichert.
+2023-09-18 15:44:48,047 - Gültig bis gespeichert.
+2023-09-18 15:44:50,378 - Bildschirmschoner erstellt
+2023-09-18 15:44:50,389 - Gültig ab gespeichert.
+2023-09-18 15:44:50,402 - Gültig bis gespeichert.
+2023-10-05 06:35:17,217 - Programm wurde gestartet
+2023-10-05 06:48:48,662 - Firma gepsichert
+2023-10-05 06:49:01,090 - Name gepsichert
+2023-10-05 06:49:10,755 - Name gepsichert
+2023-10-05 06:49:23,767 - Name gepsichert
+2023-10-05 06:49:34,596 - Name gepsichert
+2023-10-05 06:51:22,259 - Programm wurde gestartet
+2023-10-05 06:51:42,828 - Firma gepsichert
+2023-10-05 06:51:52,893 - Name gepsichert
+2023-10-05 06:52:02,172 - Name gepsichert
+2023-10-05 06:52:11,350 - Name gepsichert
+2023-10-05 06:52:22,309 - Name gepsichert
+2023-10-05 06:53:09,114 - Programm wurde gestartet
+2023-10-05 06:53:30,023 - Sprache: Englisch
+2023-10-09 13:10:35,438 - Programm wurde gestartet
+2023-10-09 13:10:53,571 - Firma gepsichert
+2023-10-09 13:11:03,684 - Name gepsichert
+2023-10-09 13:11:06,216 - Bildschirmschoner erstellt
+2023-10-09 13:11:06,230 - Gültig ab gespeichert.
+2023-10-09 13:11:06,245 - Gültig bis gespeichert.
+2023-10-11 13:42:20,435 - Programm wurde gestartet
+2023-10-11 13:42:58,910 - Firma gepsichert
+2023-10-11 13:43:27,417 - Name gepsichert
+2023-10-11 13:43:38,262 - Bildschirmschoner erstellt
+2023-10-11 13:43:38,270 - Gültig ab gespeichert.
+2023-10-11 13:43:38,285 - Gültig bis gespeichert.
+2023-10-11 13:43:44,004 - Programm wurde gestartet
+2023-10-11 13:44:02,377 - Programm wurde gestartet
+2023-10-11 13:44:06,070 - Error: Kein Namen gefunden
+2023-10-11 13:44:30,278 - Firma gepsichert
+2023-10-11 13:44:42,373 - Name gepsichert
+2023-10-11 13:44:55,324 - Name gepsichert
+2023-10-11 13:44:58,311 - Bildschirmschoner erstellt
+2023-10-11 13:44:58,314 - Gültig ab gespeichert.
+2023-10-11 13:44:58,331 - Gültig bis gespeichert.
+2023-10-18 09:11:24,066 - Programm wurde gestartet
+2023-12-11 10:44:33,713 - Programm wurde gestartet
+2023-12-11 11:19:00,640 - Programm wurde gestartet
+2023-12-11 11:19:10,437 - Error: Keine Datum vorhanden
+2023-12-11 12:11:52,088 - Programm wurde gestartet
+2023-12-11 13:38:42,659 - Programm wurde gestartet
+2023-12-11 13:41:09,091 - Name gepsichert
+2023-12-11 13:41:24,740 - Name gepsichert
+2023-12-11 13:41:42,940 - Name gepsichert
+2023-12-11 13:41:54,836 - Name gepsichert
+2023-12-11 13:41:57,259 - Firma gepsichert
+2023-12-11 13:42:49,695 - Bildschirmschoner erstellt
+2023-12-11 13:42:49,714 - Gültig ab gespeichert.
+2023-12-11 13:42:49,727 - Gültig bis gespeichert.
+2023-12-11 15:06:01,067 - Programm wurde gestartet
+2023-12-13 12:06:10,150 - Programm wurde gestartet
+2023-12-13 12:07:07,114 - Firma gepsichert
+2023-12-13 12:07:07,979 - Name gepsichert
+2023-12-13 12:07:19,773 - Bildschirmschoner erstellt
+2023-12-13 12:07:19,786 - Gültig ab gespeichert.
+2023-12-13 12:07:19,800 - Gültig bis gespeichert.
+2023-12-15 08:10:08,662 - Programm wurde gestartet
+2023-12-15 08:11:20,181 - Name gepsichert
+2023-12-15 08:11:21,224 - Firma gepsichert
+2023-12-15 08:11:24,212 - Bildschirmschoner erstellt
+2023-12-15 08:11:24,228 - Gültig ab gespeichert.
+2023-12-15 08:11:24,249 - Gültig bis gespeichert.
+2024-02-02 09:40:34,957 - Programm wurde gestartet
+2024-02-02 09:42:03,586 - Bildschirmschoner erstellt
+2024-02-02 09:42:03,599 - Gültig ab gespeichert.
+2024-02-02 09:42:03,616 - Gültig bis gespeichert.
+2024-02-16 09:16:40,228 - Programm wurde gestartet
+2024-02-16 09:17:07,489 - Firma gepsichert
+2024-02-16 09:17:33,716 - Name gepsichert
+2024-02-16 09:17:54,791 - Name gepsichert
+2024-02-16 09:18:08,796 - Name gepsichert
+2024-02-16 09:23:44,687 - Bildschirmschoner erstellt
+2024-02-16 09:23:44,711 - Gültig ab gespeichert.
+2024-02-16 09:23:44,720 - Gültig bis gespeichert.
+2024-02-19 13:35:12,730 - Programm wurde gestartet
+2024-02-19 13:35:41,137 - Name gepsichert
+2024-02-19 13:35:53,468 - Name gepsichert
+2024-02-19 13:36:08,491 - Name gepsichert
+2024-02-19 13:36:26,391 - Firma gepsichert
+2024-02-19 13:36:47,800 - Bildschirmschoner erstellt
+2024-02-19 13:36:47,827 - Gültig ab gespeichert.
+2024-02-19 13:36:47,849 - Gültig bis gespeichert.
+2024-02-21 08:58:24,931 - Programm wurde gestartet
+2024-02-21 12:40:05,713 - Programm wurde gestartet
+2024-02-21 12:44:52,523 - Name gepsichert
+2024-02-21 12:44:53,776 - Firma gepsichert
+2024-02-21 12:44:59,056 - Bildschirmschoner erstellt
+2024-02-21 12:44:59,083 - Gültig ab gespeichert.
+2024-02-21 12:44:59,096 - Gültig bis gespeichert.
+2024-02-21 12:50:01,381 - Firma gepsichert
+2024-02-21 12:50:08,544 - letzer Name gelöscht
+2024-02-21 12:50:53,317 - Name gepsichert
+2024-02-21 12:51:06,116 - Name gepsichert
+2024-02-21 12:51:33,609 - Name gepsichert
+2024-02-21 12:52:04,329 - Name gepsichert
+2024-02-21 12:52:21,395 - Bildschirmschoner erstellt
+2024-02-21 12:52:21,395 - Gültig ab gespeichert.
+2024-02-21 12:52:21,413 - Gültig bis gespeichert.
+2024-02-21 13:13:33,979 - Programm wurde gestartet
+2024-02-21 13:13:41,059 - Sprache: Englisch
+2024-02-21 13:13:41,789 - Sprache: Deutsch
+2024-02-21 13:13:49,950 - 1 Firmen modus aus
+2024-02-21 13:13:49,956 - 2 Firmen modus aus
+2024-02-21 13:13:49,961 - 3 Firmen modus an
+2024-02-21 13:13:51,715 - 1 Firmen modus aus
+2024-02-21 13:13:51,720 - 2 Firmen modus an
+2024-02-21 13:13:51,726 - 3 Firmen modus aus
+2024-02-21 13:13:53,059 - 1 Firmen modus aus
+2024-02-21 13:13:53,066 - 2 Firmen modus aus
+2024-02-21 13:13:53,071 - 3 Firmen modus an
+2024-02-21 13:13:55,903 - Alles Zurückgesetzt
+2024-02-21 13:13:55,913 - Gültig ab gelöscht.
+2024-02-21 13:13:55,922 - Gültig bis gelöscht.
+2024-02-21 13:13:56,864 - 1 Firmen modus aus
+2024-02-21 13:13:56,870 - 2 Firmen modus an
+2024-02-21 13:13:56,876 - 3 Firmen modus aus
+2024-02-21 13:13:57,333 - 2 Firmen modus aus
+2024-02-21 13:13:57,338 - 1 Firmen modus an
+2024-02-23 07:57:48,294 - Programm wurde gestartet
+2024-02-23 08:00:42,092 - Firma gepsichert
+2024-02-23 08:01:27,335 - Name gepsichert
+2024-02-23 08:01:37,652 - Name gepsichert
+2024-02-23 08:01:49,145 - Name gepsichert
+2024-02-23 08:02:02,697 - Name gepsichert
+2024-02-23 08:02:19,825 - Bildschirmschoner erstellt
+2024-02-23 08:02:19,852 - Gültig ab gespeichert.
+2024-02-23 08:02:19,865 - Gültig bis gespeichert.
+2024-02-27 08:40:56,876 - Programm wurde gestartet
+2024-02-27 08:41:37,733 - Firma gepsichert
+2024-02-27 08:42:00,504 - Name gepsichert
+2024-02-27 08:42:13,186 - Name gepsichert
+2024-02-27 08:42:27,424 - Name gepsichert
+2024-02-27 08:42:42,473 - Name gepsichert
+2024-02-27 08:42:48,812 - Bildschirmschoner erstellt
+2024-02-27 08:42:48,823 - Gültig ab gespeichert.
+2024-02-27 08:42:48,833 - Gültig bis gespeichert.
+2024-03-11 11:22:07,798 - Programm wurde gestartet
+2024-03-11 11:27:36,254 - Name gepsichert
+2024-03-11 11:27:37,438 - Firma gepsichert
+2024-03-11 11:27:40,611 - Bildschirmschoner erstellt
+2024-03-11 11:27:40,638 - Gültig ab gespeichert.
+2024-03-11 11:27:40,668 - Gültig bis gespeichert.
+2024-03-18 10:28:22,771 - Programm wurde gestartet
+2024-03-19 08:02:22,298 - Programm wurde gestartet
+2024-03-19 08:17:12,278 - Firma gepsichert
+2024-03-19 08:17:23,650 - Firma gepsichert
+2024-03-19 08:17:35,565 - Name gepsichert
+2024-03-19 08:17:43,599 - Name gepsichert
+2024-03-19 08:17:57,104 - Name gepsichert
+2024-03-19 08:18:06,875 - Name gepsichert
+2024-03-19 08:18:13,561 - Name gepsichert
+2024-03-19 08:18:21,782 - Name gepsichert
+2024-04-08 12:30:12,745 - Programm wurde gestartet
+2024-04-08 14:01:02,995 - Firma gepsichert
+2024-04-08 14:01:04,894 - Name gepsichert
+2024-04-08 14:01:19,480 - Name gepsichert
+2024-04-08 14:01:32,347 - Name gepsichert
+2024-04-08 14:10:47,029 - Bildschirmschoner erstellt
+2024-04-08 14:10:47,042 - Gültig ab gespeichert.
+2024-04-08 14:10:47,071 - Gültig bis gespeichert.
+2024-04-10 08:12:31,374 - Programm wurde gestartet
+2024-04-10 08:14:21,270 - Name gepsichert
+2024-04-10 08:14:35,899 - Name gepsichert
+2024-04-10 08:14:44,406 - Bildschirmschoner erstellt
+2024-04-10 08:14:44,439 - Gültig ab gespeichert.
+2024-04-10 08:14:44,459 - Gültig bis gespeichert.
+2024-04-10 08:15:00,483 - Name gepsichert
+2024-04-10 08:15:18,277 - Firma gepsichert
+2024-04-10 08:15:49,710 - Name gepsichert
+2024-04-10 08:16:01,921 - Bildschirmschoner erstellt
+2024-04-10 08:16:01,937 - Gültig ab gespeichert.
+2024-04-10 08:16:01,952 - Gültig bis gespeichert.
+2024-04-10 08:16:07,110 - Bildschirmschoner erstellt
+2024-04-10 08:16:07,123 - Gültig ab gespeichert.
+2024-04-10 08:16:07,144 - Gültig bis gespeichert.
+2024-04-10 08:16:17,018 - Bildschirmschoner erstellt
+2024-04-10 08:16:17,032 - Gültig ab gespeichert.
+2024-04-10 08:16:17,057 - Gültig bis gespeichert.
+2024-04-10 08:17:56,822 - Bildschirmschoner erstellt
+2024-04-10 08:17:56,836 - Gültig ab gespeichert.
+2024-04-10 08:17:56,853 - Gültig bis gespeichert.
+2024-04-10 08:17:59,343 - Bildschirmschoner erstellt
+2024-04-10 08:17:59,359 - Gültig ab gespeichert.
+2024-04-10 08:17:59,380 - Gültig bis gespeichert.
