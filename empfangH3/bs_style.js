@@ -30,7 +30,12 @@ const readData = () => {
         tableContainer.style.display = 'flex';
         tableContainer.innerHTML = ''; // Leere die Dateiliste, um sie zu aktualisieren
         console.log(data)
-
+        if (data.language[0] === "english") {
+          document.getElementById("text").innerHTML = "We warmly welcome today's <span>visitors</span>"
+          
+        } else {
+          document.getElementById("text").innerHTML = "Wir begr&uuml;&szlig;en ganz herzlich unsere heutigen <span>Besucher</span>"
+        }
         
 
         for (let i = 0; i < data.id.length; i++){
@@ -54,10 +59,7 @@ const readData = () => {
               div.appendChild(li);
 
             tableContainer.appendChild(div)
-            if (data.language[0] === "english") {
-              document.getElementById("text").innerHTML = "We warmly welcome today's <span>visitors</span>"
-              
-            }
+            
         }
 
 }})
