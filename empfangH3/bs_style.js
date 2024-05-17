@@ -15,7 +15,7 @@ const readData = () => {
         const tableNames = document.getElementById('tableNames');
         if (tableNames.innerHTML.trim() === '') {
           
-          
+        
           document.getElementById('text').style.fontSize = "70px"
           document.getElementById('text').style.paddingTop = "70px"
           document.getElementById('pic').style.height = "200%"
@@ -29,6 +29,9 @@ const readData = () => {
         const tableContainer = document.getElementById('tableNames');
         tableContainer.style.display = 'flex';
         tableContainer.innerHTML = ''; // Leere die Dateiliste, um sie zu aktualisieren
+        console.log(data)
+
+        
 
         for (let i = 0; i < data.id.length; i++){
 
@@ -51,7 +54,10 @@ const readData = () => {
               div.appendChild(li);
 
             tableContainer.appendChild(div)
-  
+            if (data.language[0] === "english") {
+              document.getElementById("text").innerHTML = "We warmly welcome today's <span>visitors</span>"
+              
+            }
         }
 
 }})
