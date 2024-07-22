@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	padding:0;
-	background-image:url("G:/Abteilungen/Datenverarbeitung/Programme_und_Features/Greeting/BG/6.jpg");
+	background-image:url("G:/Abteilungen/Datenverarbeitung/Programme_und_Features/Greeting/BG/12.jpg");
 	background-size: cover;
   	background-position: center;
   	background-repeat: no-repeat;
@@ -9,7 +9,7 @@ body{
 }
 img{
 	
-	height: 40%;
+	height: 30%;
 	width: 40%;
 	padding-top: 50px;
 	padding-bottom: 20px;
